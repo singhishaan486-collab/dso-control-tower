@@ -1,0 +1,61 @@
+client_id,client_name,sector,client_ownership,emirate,service_line,payment_terms_days,billing_basis,approval_layers,heads_contracted,attendance_method,submission_channel,sla_penalty_clause,rate_per_head_aed,contract_start_month
+CL-001,Client 001 LLC,Hospital,Semi-government,Dubai,Security,90,Per hour,3,20,Paper,Email,1,2608,2024-07
+CL-002,Client 002 LLC,Residential,Private SME,Dubai,Technical (MEP),30,Per head per month,2,35,Paper,Client portal,1,3732,2024-07
+CL-003,Client 003 LLC,Hospital,Private large,Abu Dhabi,Security,60,Per head per month,2,29,App,Email,1,2437,2024-07
+CL-004,Client 004 LLC,Residential,Private large,Dubai,Technical (MEP),60,Per head per month,2,47,Paper,Email,1,3312,2024-07
+CL-005,Client 005 LLC,Government,Government,Abu Dhabi,Technical (MEP),30,Per head per month,4,21,Biometric,Email,0,3719,2024-07
+CL-006,Client 006 LLC,Hospital,Private large,Sharjah,Technical (MEP),90,Per head per month,3,25,Paper,Hand delivery,0,3344,2025-06
+CL-007,Client 007 LLC,Government,Government,Dubai,Security,90,Per head per month,3,24,Paper,Client portal,1,2674,2024-07
+CL-008,Client 008 LLC,Mall,Private large,Sharjah,Technical (MEP),60,Per head per month,3,33,Paper,Client portal,0,3579,2024-07
+CL-009,Client 009 LLC,Mall,Semi-government,Dubai,Technical (MEP),90,Per head per month,2,31,Biometric,Client portal,0,3881,2024-07
+CL-010,Client 010 LLC,Office,Private large,Dubai,Security,30,Per hour,2,63,App,Client portal,1,2993,2025-07
+CL-011,Client 011 LLC,Hospital,Private large,Dubai,Front office and supervision,60,Per head per month,3,53,Paper,Hand delivery,0,5150,2024-11
+CL-012,Client 012 LLC,Hospital,Semi-government,Dubai,Security,90,Per hour,2,36,Biometric,Client portal,0,2550,2024-07
+CL-013,Client 013 LLC,Hospitality,Private large,Dubai,Technical (MEP),60,Per hour,1,14,Paper,Hand delivery,0,3385,2024-12
+CL-014,Client 014 LLC,Residential,Private large,Dubai,Security,30,Per head per month,1,21,Biometric,Email,0,2442,2024-07
+CL-015,Client 015 LLC,Office,Semi-government,Dubai,Technical (MEP),45,Per head per month,2,50,App,Hand delivery,1,3761,2024-07
+CL-016,Client 016 LLC,Office,Private large,Abu Dhabi,Technical (MEP),30,Per hour,2,30,Paper,Client portal,0,3488,2024-08
+CL-017,Client 017 LLC,Mall,Private large,Abu Dhabi,Technical (MEP),90,Per hour,2,18,Paper,Client portal,1,3876,2024-07
+CL-018,Client 018 LLC,Hospitality,Private large,Dubai,Technical (MEP),30,Per head per month,1,59,Paper,Email,1,3760,2024-07
+CL-019,Client 019 LLC,Office,Private large,Dubai,Security,30,Per hour,2,30,Paper,Email,1,2877,2025-02
+CL-020,Client 020 LLC,Office,Private large,Sharjah,Technical (MEP),45,Per hour,1,84,Biometric,Client portal,0,3388,2024-07
+CL-021,Client 021 LLC,Office,Private large,Dubai,Technical (MEP),60,Per hour,1,29,Paper,Client portal,0,3391,2024-07
+CL-022,Client 022 LLC,Hospitality,Private SME,Dubai,Technical (MEP),60,Per hour,2,74,Biometric,Email,1,3552,2024-07
+CL-023,Client 023 LLC,Government,Government,Abu Dhabi,Technical (MEP),90,Per head per month,3,26,Biometric,Hand delivery,1,3811,2025-02
+CL-024,Client 024 LLC,Government,Government,Dubai,Security,60,Per head per month,3,29,Paper,Hand delivery,1,3016,2024-07
+CL-025,Client 025 LLC,Mall,Private large,Dubai,Security,60,Per hour,3,35,App,Email,1,2615,2024-07
+CL-026,Client 026 LLC,Mall,Private large,Dubai,Security,60,Per head per month,3,26,Biometric,Email,1,2534,2024-07
+CL-027,Client 027 LLC,Residential,Private SME,Dubai,Front office and supervision,60,Per hour,1,12,App,Email,1,4885,2024-07
+CL-028,Client 028 LLC,Hospitality,Private large,Dubai,Technical (MEP),60,Per hour,1,15,Biometric,Client portal,0,3292,2024-07
+CL-029,Client 029 LLC,Hospital,Private large,Dubai,Technical (MEP),60,Per hour,3,26,Biometric,Email,0,3371,2024-07
+CL-030,Client 030 LLC,Government,Government,Dubai,Technical (MEP),60,Per head per month,4,9,Paper,Client portal,1,3749,2025-05
+CL-031,Client 031 LLC,Government,Government,Dubai,Security,90,Per head per month,3,54,Paper,Client portal,0,2999,2025-02
+CL-032,Client 032 LLC,Mall,Private large,Dubai,Technical (MEP),60,Per hour,3,50,Biometric,Client portal,0,3298,2025-03
+CL-033,Client 033 LLC,Government,Government,Dubai,Technical (MEP),60,Per head per month,4,43,Paper,Email,0,3777,2024-08
+CL-034,Client 034 LLC,Office,Private SME,Abu Dhabi,Technical (MEP),30,Per head per month,1,58,Biometric,Client portal,0,3861,2025-12
+CL-035,Client 035 LLC,Residential,Private SME,Sharjah,Security,30,Per head per month,1,9,Biometric,Hand delivery,0,2603,2024-07
+CL-036,Client 036 LLC,Office,Semi-government,Dubai,Technical (MEP),45,Per head per month,2,46,App,Hand delivery,1,3298,2024-07
+CL-037,Client 037 LLC,Residential,Private SME,Abu Dhabi,Security,30,Per hour,2,68,Biometric,Email,0,2618,2024-07
+CL-038,Client 038 LLC,Hospital,Private large,Dubai,Security,60,Per hour,3,27,Paper,Email,1,2713,2024-07
+CL-039,Client 039 LLC,Government,Government,Dubai,Security,90,Per head per month,4,21,Biometric,Client portal,1,2620,2025-03
+CL-040,Client 040 LLC,Residential,Private SME,Dubai,Security,30,Per head per month,1,16,Paper,Email,1,2810,2024-07
+CL-041,Client 041 LLC,Mall,Private large,Dubai,Security,60,Per head per month,2,35,Paper,Hand delivery,0,2900,2024-07
+CL-042,Client 042 LLC,Mall,Private large,Sharjah,Technical (MEP),60,Per head per month,3,27,App,Hand delivery,0,3409,2024-07
+CL-043,Client 043 LLC,Hospital,Semi-government,Dubai,Front office and supervision,60,Per hour,2,19,Biometric,Hand delivery,0,5375,2025-02
+CL-044,Client 044 LLC,Mall,Private large,Dubai,Security,90,Per head per month,3,11,Biometric,Email,0,2695,2024-07
+CL-045,Client 045 LLC,Mall,Private large,Dubai,Security,90,Per head per month,3,47,Paper,Client portal,1,2588,2025-01
+CL-046,Client 046 LLC,Government,Government,Dubai,Technical (MEP),60,Per hour,3,27,Biometric,Client portal,0,3721,2025-10
+CL-047,Client 047 LLC,Hospital,Semi-government,Dubai,Security,90,Per head per month,3,20,App,Email,1,3001,2024-07
+CL-048,Client 048 LLC,Mall,Private large,Dubai,Security,90,Per hour,2,35,Biometric,Client portal,1,2467,2025-04
+CL-049,Client 049 LLC,Government,Government,Dubai,Front office and supervision,60,Per hour,3,16,Paper,Hand delivery,1,5671,2024-07
+CL-050,Client 050 LLC,Hospitality,Private large,Dubai,Security,60,Per head per month,1,24,Paper,Client portal,0,2521,2024-07
+CL-051,Client 051 LLC,Government,Government,Dubai,Technical (MEP),90,Per head per month,3,45,Biometric,Email,1,3628,2024-07
+CL-052,Client 052 LLC,Residential,Private large,Dubai,Security,30,Per head per month,2,43,App,Email,1,2915,2024-09
+CL-053,Client 053 LLC,Residential,Private large,Abu Dhabi,Security,45,Per head per month,2,58,App,Client portal,1,2719,2026-01
+CL-054,Client 054 LLC,Office,Private SME,Abu Dhabi,Front office and supervision,45,Per head per month,1,28,Paper,Email,1,4865,2024-07
+CL-055,Client 055 LLC,Residential,Private SME,Abu Dhabi,Security,30,Per head per month,1,31,Biometric,Hand delivery,0,2450,2024-07
+CL-056,Client 056 LLC,Hospital,Private large,Dubai,Security,90,Per head per month,3,32,App,Client portal,1,2787,2025-03
+CL-057,Client 057 LLC,Mall,Private large,Dubai,Front office and supervision,60,Per head per month,3,25,Biometric,Client portal,0,4717,2024-07
+CL-058,Client 058 LLC,Mall,Semi-government,Dubai,Technical (MEP),60,Per hour,3,17,Paper,Hand delivery,1,3946,2024-07
+CL-059,Client 059 LLC,Residential,Private SME,Dubai,Security,45,Per hour,2,38,Paper,Email,1,2466,2025-05
+CL-060,Client 060 LLC,Office,Private large,Abu Dhabi,Security,30,Per head per month,2,20,Biometric,Client portal,1,2493,2026-02

@@ -1,0 +1,34 @@
+[theme]
+base = "dark"
+primaryColor = "#66F4FF"
+backgroundColor = "#121619"
+secondaryBackgroundColor = "#1A1F23"
+textColor = "#ECF0F2"
+borderColor = "#333C44"
+baseRadius = "10px"
+showWidgetBorder = true
+font = "Segoe UI, system-ui, sans-serif"
+codeFont = "Consolas, monospace"
+linkColor = "#66F4FF"
+# Deltas and alerts follow the palette: cyan is good, orange is risk or action needed, slate is neutral.
+greenColor = "#66F4FF"
+redColor = "#FFC067"
+# Delta pills: cyan tint with cyan text when good, orange tint with orange text when bad.
+greenTextColor = "#66F4FF"
+greenBackgroundColor = "rgba(102, 244, 255, 0.14)"
+redTextColor = "#FFC067"
+redBackgroundColor = "rgba(255, 192, 103, 0.16)"
+orangeColor = "#FFC067"
+yellowColor = "#FFC067"
+blueColor = "#7D99AA"
+dataframeBorderColor = "#333C44"
+dataframeHeaderBackgroundColor = "#232A30"
+dataframeHeaderTextColor = "#7D99AA"
+chartCategoricalColors = ["#66F4FF", "#FFC067", "#7D99AA", "#ECF0F2"]
+
+[theme.sidebar]
+backgroundColor = "#1A1F23"
+secondaryBackgroundColor = "#232A30"
+
+[browser]
+gatherUsageStats = false

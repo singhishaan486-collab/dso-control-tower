@@ -1,0 +1,2461 @@
+email_id,received_date,client_id,invoice_id_true,subject,body,labels,is_dispute
+EM-0001,2024-08-17,CL-004,INV-00004,Payment hold,"Dear Sir/Madam,
+
+Regarding INV-00004, you applied the escalation but we have not agreed to the revised rates. This is not the first time this has happened. Kindly clarify urgently.
+
+Best regards,
+Accounts Payable",RATE_DISPUTE,1
+EM-0002,2024-08-21,CL-055,INV-00036,Payment hold,"Dear Collections team,
+
+Regarding inv 36, headcount on the invoiec is higher than the deployed manpower. Please issue a credit note.
+
+Rgds
+Facility Manager",HC_DISCREPANCY,1
+EM-0003,2024-08-22,CL-037,INV-00025,Clarification required,"Dear Collections team,
+
+Regarding INV-00025, you billed 63 staff but only 61 were on site most days. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",HC_DISCREPANCY,1
+EM-0004,2024-08-22,CL-049,INV-00032,Invoice on hold,"Regarding inv 32, our site team count shows fewer man-hours than you billed for July. Please revise and resend.
+
+Thank you",TS_MISMATCH,1
+EM-0005,2024-08-23,CL-008,INV-00007,Dispute - July invoice,"Dear Collections team,
+
+Regarding INV-00007, pls check, attendence for July is not matching our reigster. Please issue a credit note.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0006,2024-08-23,CL-021,INV-00015,Clarification required,"Hi,
+
+Regarding INV-00015, the monthly rate charged is wrong, please refre to clause on pricing. This is not the first time this has happened. Awaiting your corrected invoice.
+
+Regards,
+FM Department",RATE_DISPUTE,1
+EM-0007,2024-08-27,CL-036,INV-00024,INV-00024 rejected,"Hi,
+
+Regarding INV-00024, overtime of 191 hours was never approved by us. Kindly clarify urgently.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0008,2024-08-28,CL-044,INV-00030,Payment update,"Hi Ahmed,
+
+Couldy ou please confirm the outstanding balance on our account.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0009,2024-08-30,CL-042,INV-00029,Invoice query,"Good morning,
+
+Regarding your latest invoice, we were short of guards for many shifts, the invoice charges full strength. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",HC_DISCREPANCY,1
+EM-0010,2024-08-31,CL-051,INV-00034,INV-00034 rejected,"Dear team,
+
+Regarding INV-00034, kindly issue a credit note fro the SLA deductions. Please issue a credit note.
+
+Best regards,
+Accounts Payable",SLA_PENALTY,1
+EM-0011,2024-09-06,CL-038,INV-00026,Payment hold,"Hi,
+
+Regarding INV-00026, we have not signed the timesheet you use dfor this invoice. This is not the first time this has happened. Let us discuss.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0012,2024-09-09,CL-021,INV-00054,Dispute - August invoice,"Hello Accounts,
+
+Regarding INV-00054, the attendance sheet has corrections thta we never agreed to. Also, overtime of 113 huors was never approved by us. Let us discuss.
+
+Rgds
+Facility Manager",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0013,2024-09-11,CL-058,INV-00038,Invoice query,"Hi,
+
+Regarding INV-00038, our site team count shows fewer man-hours than yuo billed for July. This is not the first time this has happened. Please revise and resend.
+
+Thank you",TS_MISMATCH,1
+EM-0014,2024-09-16,CL-047,INV-00071,Clarification required,"Hello Accounts,
+
+Regarding INV-00071, OT charges are not acceptable, no prior approval from facility manager. We are holding the payment until this is resolved.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0015,2024-09-17,CL-014,INV-00048,Clarification required,"Hello Accounts,
+
+Regarding INV-00048, please remove the overtime line, it was not pre approved as per contract. This is not the first time this has happened. Please revise and resend.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0016,2024-09-18,CL-007,INV-00044,RE: INV-00044,"Hi Ahmed,
+
+Regarding invoice no. 00044, the hours on your invoice do not match our attendance records for August. 
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0017,2024-09-20,CL-041,INV-00068,Vendor details,"Dear Sir/Madam,
+
+Could you please confirm the outstanding balance on our account.
+
+-- Sent from my phone",NOT_DISPUTE,0
+EM-0018,2024-09-23,CL-022,INV-00055,Payment hold,"Dear Sir/Madam,
+
+Regarding invoice no. 00055, we will short pay due to SLA non copmliance. Also, several positions were vacant in Augus tbut are charged in full. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",SLA_PENALTY; HC_DISCREPANCY,1
+EM-0019,2024-09-27,CL-036,INV-00064,Payment hold,"Dear Collections team,
+
+Regarding INV-00064, our site team count shows fewer man-hours than you billed for August. Please revise and resend.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0020,2024-09-29,CL-037,INV-00065,Invoice query,"Dear team,
+
+Regarding INV-00065, OT charges are not acceptable, no prior aprpoval from facility manager. Also, pls check, attendence for August is not matching our register. Please issue a credit note.
+
+Rgds
+Facility Manager",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0021,2024-10-03,CL-044,INV-00070,Payment update,"Hi Ahmed,
+
+Payment for inv 70 has been processed and should reflect in 3 working days.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0022,2024-10-04,CL-029,INV-00022,Vendor details,"Could you please confirm the outstanding balance on our account.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0023,2024-10-12,CL-058,INV-00078,RE: INV-00078,"Dear team,
+
+Regarding inv 78, OT charges are not acceptable, no prior apporval from facility manager. Kindly clarify urgently.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0024,2024-10-14,CL-012,INV-00047,Remittance advice,"Hello Accounts,
+
+Payment for INV-00047 has been processed and should reflect in 3 working days.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0025,2024-10-19,CL-052,INV-00115,INV-00115 rejected,"Dear Sir/Madam,
+
+Regarding INV-00115, the signed timesheet is not attached. 
+
+Best regards,
+Accounts Payable",DOCS_MISSING,1
+EM-0026,2024-10-21,CL-050,INV-00073,Remittance advice,"Kindly share your updated bank details letter on company letterhead.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0027,2024-10-22,CL-004,INV-00082,Payment hold,"Regarding inv 82, the hours on your invoice d onot match our attendance records for September. We are holding the payment until this is resolved.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0028,2024-10-25,CL-009,INV-00086,Query,"Hi,
+
+Please update the invoice address to our new office, no other change.
+
+-- Sent from my phone",NOT_DISPUTE,0
+EM-0029,2024-10-28,CL-041,INV-00108,Invoice query,"Dear Collections team,
+
+Regarding INV-00108, the attendance sheet has corrections that we never agreed to. This is not the first time this has happened. Please issue a credit note.
+
+Thank you",TS_MISMATCH,1
+EM-0030,2024-11-05,CL-003,INV-00081,Vendor details,"Dear Collections team,
+
+Could you please confirm the outstanding balance on our account.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0031,2024-11-16,CL-044,INV-00110,Remittance advice,"Hi,
+
+Could you please confirm the outstanding balance on our account.
+
+Thank you",NOT_DISPUTE,0
+EM-0032,2024-11-20,CL-027,INV-00140,Invoice query,"Dear Collections team,
+
+Regarding invoice no. 00140, we will short pay due to SLA non compliance. Also, the attendance sheet has corrections that we never agreed to. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",SLA_PENALTY; TS_MISMATCH,1
+EM-0033,2024-11-21,CL-017,INV-00132,FW: monthly manpower invoice,"Hi,
+
+Regarding inv 132, the hours on your invoice do not match our attendance records for October. Let us discuss.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0034,2024-11-21,CL-005,INV-00124,Invoice query,"Dear Sir/Madam,
+
+Regarding INV-00124, supporting documents are missing, please resend with attendance report. Let us discuss.
+
+Kind regards,
+Finance",DOCS_MISSING,1
+EM-0035,2024-11-21,CL-026,INV-00139,Dispute - October invoice,"Hi,
+
+Regarding inv 139, who approved the extra hours? we did not request overtime in October. Also, the attendance sheet has corrections that we never agreed to. Please revise and resend.
+
+Kind regards,
+Finance",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0036,2024-11-22,CL-052,INV-00156,Invoice on hold,"Dear team,
+
+Regarding your latest invoice, the attendance sheet has corrections that we never agreed to. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0037,2024-11-22,CL-040,INV-00148,Query,"Good morning,
+
+We will release payment next week after the CFO approval.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0038,2024-11-23,CL-054,INV-00157,INV-00157 rejected,"Hello Accounts,
+
+Regarding inv 157, our site team count shows fewer man-hours than you billed for October. Please revise and resend.
+
+Thank you",TS_MISMATCH,1
+EM-0039,2024-11-27,CL-022,INV-00095,Remittance advice,"Hi,
+
+Requesting a copy of your trade licence for our vendor registration renewal.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0040,2024-11-28,CL-016,INV-00131,RE: INV-00131,"Hi,
+
+Regarding invoice no. 00131, the hours on your invoice do not match our attendance records for October. Also, you applied the escalation but we have not agreed to the revised rates. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",TS_MISMATCH; RATE_DISPUTE,1
+EM-0041,2024-12-01,CL-055,INV-00158,INV-00158 rejected,"Regarding INV-00158, the OT hours look excessive adn there is no approval email. 
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0042,2024-12-02,CL-036,INV-00145,INV-00145 rejected,"Dear Collections team,
+
+Regarding INV-00145, as per SLA we are deducting penlaty for uncovered shifts. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",SLA_PENALTY,1
+EM-0043,2024-12-21,CL-040,INV-00190,RE: INV-00190,"Dear Sir/Madam,
+
+Regarding INV-00190, OT charges are not acceptable, no prior approval from facility manager. This is not the first time this has happened. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0044,2024-12-21,CL-021,INV-00177,Payment hold,"Dear Sir/Madam,
+
+Regarding INV-00177, you billed 29 staff but only 26 were on site most days. Please revise and resend.
+
+Thank you",HC_DISCREPANCY,1
+EM-0045,2024-12-22,CL-008,INV-00167,RE: INV-00167,"Hello Accounts,
+
+Regarding INV-00167, the hours on your invoice do not mathc our attendance records for November. 
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0046,2024-12-23,CL-015,INV-00172,Invoice on hold,"Dear Collections team,
+
+Regarding your latest invoice, overtime of 447 hours was never approved by us. Please issue a credit note.
+
+Thank you",OT_UNAPPROVED,1
+EM-0047,2024-12-30,CL-025,INV-00180,Account statement,"Dear Collections team,
+
+We will release payment next week after the CFO approval.
+
+Thank you",NOT_DISPUTE,0
+EM-0048,2024-12-30,CL-036,INV-00187,Dispute - November invoice,"Hi,
+
+Regarding INV-00187, you billed 44 staff but only 41 were on site most days. Also, the hours on your invoice do not match our attendance records for November. Please revise and resend.
+
+Best regards,
+Accounts Payable",HC_DISCREPANCY; TS_MISMATCH,1
+EM-0049,2024-12-31,CL-002,INV-00121,Remittance advice,"Dear Collections team,
+
+Please find attached remittance advice for the payment released today.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0050,2025-01-13,CL-055,INV-00200,Vendor details,"Good morning,
+
+Can you send a statement ofa ccount up to November.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0051,2025-01-15,CL-037,INV-00231,Dispute - December invoice,"Dear Collections team,
+
+Regarding INV-00231, the OT hours look excessive and there is no approval email. Please issue a credit note.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0052,2025-01-16,CL-002,INV-00204,INV-00204 rejected,"Hi,
+
+Regarding INV-00204, the replacement staff were not provided yet invoice shows full deployment. Awaiting your corrected invoice.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0053,2025-01-17,CL-027,INV-00225,INV-00225 rejected,"Dear Sir/Madam,
+
+Regarding INV-00225, kindly issue a credit note for the SLA deductions. 
+
+Regards,
+FM Department",SLA_PENALTY,1
+EM-0054,2025-01-18,CL-041,INV-00191,Payment update,"Dear Sir/Madam,
+
+We will release payment next week after the CFO approval.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0055,2025-01-20,CL-016,INV-00216,RE: INV-00216,"Dear Collections team,
+
+Regarding inv 216, our site team count shows fewer man-hours than you billed for December. Awaiting your corrected invoice.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0056,2025-01-20,CL-052,INV-00241,FW: monthly manpower invoice,"Good morning,
+
+Regarding INV-00241, the OT hours look excessive and there is no approval email. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0057,2025-01-23,CL-004,INV-00206,Dispute - December invoice,"Regarding your latest invoice, the attendance sheet has corrections that we never agreed to. Please revise and resend.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0058,2025-01-31,CL-038,INV-00232,Invoice query,"Good morning,
+
+Regarding INV-00232, the signed timesheet is not attached. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",DOCS_MISSING,1
+EM-0059,2025-02-03,CL-024,INV-00222,Payment update,"Dear Sir/Madam,
+
+Please update the invoice address to our new office, no other change.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0060,2025-02-09,CL-036,INV-00273,INV-00273 rejected,"Hi,
+
+Regarding your latest invoice, pls check, attendence for January is not matching our register. Kindly clarify urgently.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0061,2025-02-10,CL-033,INV-00185,Payment update,"Dear Sir/Madam,
+
+Please update the invoice address to our new office, noo ther change.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0062,2025-02-17,CL-003,INV-00248,FW: monthly manpower invoice,"Hi Ahmed,
+
+Regarding INV-00248, we only received the invoice copy, no backup documents. Please revise and resend.
+
+Regards,
+FM Department",DOCS_MISSING,1
+EM-0063,2025-02-17,CL-017,INV-00260,Dispute - January invoice,"Hi,
+
+Regarding INV-00260, we were short of guards for many shifts, the invoice charges full strength. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+Best regards,
+Accounts Payable",HC_DISCREPANCY,1
+EM-0064,2025-02-19,CL-026,INV-00267,FW: monthly manpower invoice,"Hi,
+
+Regarding INV-00267, who approved the extra hours? we did not request overtime in January. Please issue a credit note.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0065,2025-02-20,CL-029,INV-00270,FW: monthly manpower invoice,"Hello Accounts,
+
+Regarding INV-00270, the purchase order balance is exhausted, procurement needs to issue a new one first. Also, we have not signed the timesheet you used for this invoice. 
+
+-- Sent from my phone",LPO_ISSUE; TS_MISMATCH,1
+EM-0066,2025-02-22,CL-035,INV-00229,Query,"Dear team,
+
+Kindly share your updated bank details letter on company letterhead.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0067,2025-02-24,CL-037,INV-00274,Invoice on hold,"Good morning,
+
+Regarding INV-00274, you billed 65 staff but only 64 were on site most days. Also, you applied the escalation but we have not agreed to the revised rates. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",HC_DISCREPANCY; RATE_DISPUTE,1
+EM-0068,2025-02-24,CL-004,INV-00249,INV-00249 rejected,"Good morning,
+
+Regarding INV-00249, pls check, attendence for January is not matching our register. Kindly clarify urgently.
+
+Thank you",TS_MISMATCH,1
+EM-0069,2025-02-24,CL-007,INV-00208,Account statement,"Good morning,
+
+Please update the invoice address to our new office, no other change.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0070,2025-02-25,CL-052,INV-00285,Payment hold,"Dear Collections team,
+
+Regarding your latest invoice, OT charges are not acceptable, no prior approval from facility manager. This is not the first time this has happened. Please revise and resend.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0071,2025-02-27,CL-042,INV-00278,Invoice query,"Good morning,
+
+Regarding INV-00278, LPO renewal is pending with procurement so finance cannot release payment. Also, we have not signed the timesheet you used for this invoice. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",LPO_ISSUE; TS_MISMATCH,1
+EM-0072,2025-02-28,CL-015,INV-00258,Clarification required,"Hello Accounts,
+
+Regarding INV-00258, we have not sgined the timesheet you used for this invoice. Also, the signed tiemsheet is not attached. Let us discuss.
+
+Rgds
+Facility Manager",TS_MISMATCH; DOCS_MISSING,1
+EM-0073,2025-03-02,CL-041,INV-00277,FW: monthly manpower invoice,"Dear team,
+
+Regarding INV-00277, we have not signed the timesheet you used for this invoice. Awaiting your corrected invoice.
+
+Thank you",TS_MISMATCH,1
+EM-0074,2025-03-02,CL-050,INV-00283,Vendor details,"Hi Ahmed,
+
+Could you please confirm the outstanding balance on our account.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0075,2025-03-03,CL-047,INV-00281,Payment hold,"Good morning,
+
+Regarding INV-00281, please remove the overtime line, it was not pre approved as per contract. Please revise and resend.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0076,2025-03-10,CL-027,INV-00268,Account statement,"Dear Sir/Madam,
+
+Requesting a copy of your trade licence for our vendor registration renewal.
+
+Thank you",NOT_DISPUTE,0
+EM-0077,2025-03-15,CL-033,INV-00271,Invoice on hold,"Hi,
+
+Regarding inv 271, the singed timesheet is not attached. Let us discuss.
+
+Kind regards,
+Finance",DOCS_MISSING,1
+EM-0078,2025-03-15,CL-026,INV-00313,RE: INV-00313,"Hi,
+
+Regarding INV-00313, timesheet attached with the invoice is different from wha tour FM supervisor signed. Also, you applied the secalation but we have not agreed to the revised rates. Please issue a credit note.
+
+Thanks,
+Procurement",TS_MISMATCH; RATE_DISPUTE,1
+EM-0079,2025-03-17,CL-027,INV-00314,Invoice query,"Regarding INV-00314, pls check, attendence for February is not matching our register. Please revise and resend.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0080,2025-03-18,CL-037,INV-00321,Invoice on hold,"Hi,
+
+Regarding your latest invoice, please remove the overtime line, it was not pre approved as per contract. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",OT_UNAPPROVED,1
+EM-0081,2025-03-18,CL-055,INV-00335,Clarification required,"Good morning,
+
+Regarding invoice no. 00335, we are not satisfied with the service quality this month. We are holding the payment until this is resolved.
+
+Best regards,
+Accounts Payable",SERVICE_QUALITY,1
+EM-0082,2025-03-19,CL-016,INV-00303,Payment hold,"Hi,
+
+Regarding inv 303, our site team count shows fewer man-hours than you billed for February. Kindly clarify urgently.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0083,2025-03-21,CL-013,INV-00300,Payment hold,"Hello Accounts,
+
+Regarding INV-00300, LPO renewal is pending with procurement so finance cannot release payment. Kindly clarify urgently.
+
+Rgds
+Facility Manager",LPO_ISSUE,1
+EM-0084,2025-03-21,CL-020,INV-00307,RE: INV-00307,"Hello Accounts,
+
+Regarding INV-00307, timesheet attached with the invoice is different from what our FM supervisor signed. Awaiting your corrected invoice.
+
+Thank you",TS_MISMATCH,1
+EM-0085,2025-03-23,CL-031,INV-00317,RE: INV-00317,"Hello Accounts,
+
+Regarding INV-00317, the OT hours look excessive and there is no approval email. Also, pls check, attendence for February is not matching our register. 
+
+Kind regards,
+Finance",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0086,2025-03-23,CL-021,INV-00308,Payment hold,"Hello Accounts,
+
+Regarding INV-00308, timesheet attached with the invoice is different from what our FM supervisor signed. Let us discuss.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0087,2025-03-24,CL-044,INV-00327,Payment hold,"Hi Ahmed,
+
+Regarding INV-00327, original invoice with stamped timesheet not received at our office. Awaiting your corrected invoice.
+
+-- Sent from my phone",DOCS_MISSING,1
+EM-0088,2025-03-24,CL-040,INV-00323,Invoice on hold,"Regarding inv 323, we only received the invoice copy, no backup documents. Awaiting your corrected invoice.
+
+Thank you",DOCS_MISSING,1
+EM-0089,2025-03-27,CL-011,INV-00298,Invoice query,"Hi Ahmed,
+
+Regarding INV-00298, the attendance sheet has corrections that we never agreed to. This is not the first time this has happened. Kindly clarify urgently.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0090,2025-03-27,CL-040,INV-00276,Query,"Hi Ahmed,
+
+Please find attached remittance advice for the payment released today.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0091,2025-03-29,CL-024,INV-00311,INV-00311 rejected,"Hi Ahmed,
+
+Regarding INV-00311, overtime of 365 hours was never approved by us. Please issue a credit note.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0092,2025-04-03,CL-042,INV-00325,Payment hold,"Dear Collections team,
+
+Regarding inv 325, please remove th eovertime line, it was not pre approved as per contract. Also, you billed 28 staff but only 25 were on site most days. Please revise and resend.
+
+Thank you",OT_UNAPPROVED; HC_DISCREPANCY,1
+EM-0093,2025-04-03,CL-019,INV-00306,FW: monthly manpower invoice,"Good morning,
+
+Regarding inv 306, OT charges rae not acceptable, no prior approval from facility manager. Awaiting your corrected invoice.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0094,2025-04-18,CL-022,INV-00357,Clarification required,"Regarding invoice no. 00357, the attendance sheet has corrections that we never agreed to. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0095,2025-04-20,CL-002,INV-00339,Invoice on hold,"Dear Sir/Madam,
+
+Regarding INV-00339, we will short pay due to SLA non compliance. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",SLA_PENALTY,1
+EM-0096,2025-04-21,CL-022,INV-00309,Vendor details,"Hi,
+
+Requesting a copy of your trade licence for our vendor registration renewal.
+
+-- Sent from my phone",NOT_DISPUTE,0
+EM-0097,2025-04-24,CL-021,INV-00356,Invoice on hold,"Hi,
+
+Regarding INV-00356, the hours on your invoice do not match our attendance records for March. Also, who approved the extra hours? we did not request overtime in March. Let us discuss.
+
+Kind regards,
+Finance",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0098,2025-04-25,CL-038,INV-00371,Payment hold,"Regarding your latest invoice, we have not signed the timesheet you used for this invoice. Also, you billed 28 staff but only 25 were on site most days. Please revise and resend.
+
+Rgds
+Facility Manager",TS_MISMATCH; HC_DISCREPANCY,1
+EM-0099,2025-04-26,CL-011,INV-00346,Payment hold,"Hello Accounts,
+
+Regarding invoice no. 00346, OT charges are not acceptable, no prior approval from facility manager. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+Thank you",OT_UNAPPROVED,1
+EM-0100,2025-04-28,CL-026,INV-00361,Payment hold,"Dear Collections team,
+
+Regarding INV-00361, OT charges are not acceptalbe, no prior approval from facility manager. Please revise and resend.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0101,2025-04-28,CL-017,INV-00352,Invoice on hold,"Good morning,
+
+Regarding your latest invoice, several positions were vacant in March but are charged in full. 
+
+Thank you",HC_DISCREPANCY,1
+EM-0102,2025-04-30,CL-007,INV-00343,INV-00343 rejected,"Regarding your latest invoice, OT charges are not acceptable, no prior approval from facility manager. Please issue a credit note.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0103,2025-05-01,CL-003,INV-00340,INV-00340 rejected,"Hi Ahmed,
+
+Regarding INV-00340, supporting documents are missing, please resend with attendance report. Also, who approved the extra hours? we did not request overtime in March. Let us discuss.
+
+Thanks,
+Procurement",DOCS_MISSING; OT_UNAPPROVED,1
+EM-0104,2025-05-04,CL-031,INV-00365,FW: monthly manpower invoice,"Hi Ahmed,
+
+Regarding INV-00365, you billed 50 staff but only 49 were on site most days. 
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0105,2025-05-10,CL-002,INV-00291,Remittance advice,"Good morning,
+
+Kindly sahre your updated bank details letter on company letterhead.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0106,2025-05-16,CL-022,INV-00408,Invoice on hold,"Dear Sir/Madam,
+
+Regarding your latest invoice, our site team count shows fewer man-hours than you billed for April. Please revise and resend.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0107,2025-05-17,CL-016,INV-00402,Payment hold,"Dear team,
+
+Regarding INV-00402, the hours on your invoice do not match our attendance records for April. Also, please remove the overtime line, it was not pre approved as per contract. 
+
+-- Sent from my phone",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0108,2025-05-18,CL-021,INV-00407,Invoice query,"Good morning,
+
+Regarding invoice no. 00407, the OT hours look excessive and there is no approval email. Let us discuss.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0109,2025-05-18,CL-052,INV-00435,INV-00435 rejected,"Hello Accounts,
+
+Regarding INV-00435, the OT hours look excessive and there is no approval email. Also, pls check, attendence for April is not matcihng our register. Please issue a credit note.
+
+Thanks,
+Procurement",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0110,2025-05-23,CL-015,INV-00401,Clarification required,"Hi Ahmed,
+
+Regarding inv 401, the LPO quoted on the invoice has expired. This is not the first time this has happened. Kindly clarify urgently.
+
+Regards,
+FM Department",LPO_ISSUE,1
+EM-0111,2025-05-24,CL-027,INV-00413,Invoice query,"Hello Accounts,
+
+Regarding your latest invoice, penalty will be applied for the shortfall in April as per contract. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+-- Sent from my phone",SLA_PENALTY,1
+EM-0112,2025-05-24,CL-026,INV-00412,RE: INV-00412,"Dear Sir/Madam,
+
+Regarding your latest invoice, the signed timesheet is not attached. Also, unit price on the invoice odes not match the rate card in the agreement. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",DOCS_MISSING; RATE_DISPUTE,1
+EM-0113,2025-05-24,CL-031,INV-00416,Dispute - April invoice,"Dear team,
+
+Regarding INV-00416, who approved the extra hours? we did not request overtime in April. Let us discuss.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0114,2025-05-25,CL-007,INV-00394,Payment update,"Dear Collections team,
+
+Payment for inv 394 has been processed and shoudl reflect in 3 working days.
+
+Thank you",NOT_DISPUTE,0
+EM-0115,2025-05-27,CL-008,INV-00344,Vendor details,"Hello Accounts,
+
+Could you please confirm the outstanding balance on oru account.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0116,2025-05-29,CL-003,INV-00391,Payment hold,"Dear Collections team,
+
+Regarding INV-00391, the LPO quoted on the invoice has expired. Awaiting your corrected invoice.
+
+-- Sent from my phone",LPO_ISSUE,1
+EM-0117,2025-05-31,CL-036,INV-00420,Clarification required,"Good morning,
+
+Regarding inv 420, overtime of 396 hours was never approved by us. We are holding the payment until this is resolved.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0118,2025-06-04,CL-032,INV-00417,Remittance advice,"Good morning,
+
+Kindly share your updated bank details letter on company letterhead.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0119,2025-06-05,CL-024,INV-00410,Dispute - April invoice,"Dear Collections team,
+
+Regarding INV-00410, the attendance sheet has corrections that we nevera greed to. 
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0120,2025-06-16,CL-054,INV-00489,Invoice on hold,"Good morning,
+
+Regarding INV-00489, the monthly rate charged is wrong, please refer to clause on pricing. Let us discuss.
+
+-- Sent from my phone",RATE_DISPUTE,1
+EM-0121,2025-06-16,CL-018,INV-00404,Vendor details,"Dear team,
+
+Please update the invoice address to our new office, no other change.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0122,2025-06-17,CL-038,INV-00475,INV-00475 rejected,"Hello Accounts,
+
+Regarding INV-00475, we have not sigend the timesheet you used for this invoice. Also, the OT huors look excessive and there is no approval email. Please issue a credit note.
+
+Kind regards,
+Finance",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0123,2025-06-18,CL-011,INV-00397,Account statement,"Hi,
+
+Please find attached remittance advice fo rthe payment released today.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0124,2025-06-18,CL-027,INV-00465,RE: INV-00465,"Dear Sir/Madam,
+
+Regarding INV-00465, the rate per head is higher than the contract rate. 
+
+Regards,
+FM Department",RATE_DISPUTE,1
+EM-0125,2025-06-19,CL-020,INV-00458,Invoice query,"Dear team,
+
+Regarding inv 458, the hours on you rinvoice do not match our attendance records for May. Also, kindly issue a credit note for the SLA deductions. 
+
+Kind regards,
+Finance",TS_MISMATCH; SLA_PENALTY,1
+EM-0126,2025-06-20,CL-008,INV-00447,Invoice query,"Hi Ahmed,
+
+Regarding invoice no. 00447, the attendance sheet has corrections thta we never agreed to. Also, please remove the overtime line, it was not pre approved as per contract. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0127,2025-06-22,CL-017,INV-00455,RE: INV-00455,"Hello Accounts,
+
+Regarding your latest invoice, we have not signed the timesheet you used for htis invoice. Also, please remove the overtime line, it was not pre approved as per contract. Let us discuss.
+
+-- Sent from my phone",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0128,2025-06-23,CL-015,INV-00453,RE: INV-00453,"Dear Sir/Madam,
+
+Regarding invoice no. 00453, please remove the overtime line, it was not pre approved as per contract. Let us discuss.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0129,2025-06-23,CL-013,INV-00451,Clarification required,"Regarding your latest invoice, please remove the overtime line, it was not pre approved as per contract. Also, we were short of guards for many shifts, the invoice charges full strength. Kindly clarify urgently.
+
+Thanks,
+Procurement",OT_UNAPPROVED; HC_DISCREPANCY,1
+EM-0130,2025-06-26,CL-004,INV-00444,Invoice query,"Hi Ahmed,
+
+Regarding INV-00444, our site team count shows fewer man-hours than you billed for May. Kindly clarify urgently.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0131,2025-06-27,CL-031,INV-00469,Invoice query,"Hi Ahmed,
+
+Regarding INV-00469, the hours on your invoice do not match our attendance records for May. Also, kindly issue a credit note for the SLA deductions. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",TS_MISMATCH; SLA_PENALTY,1
+EM-0132,2025-06-29,CL-025,INV-00463,Invoice on hold,"Hello Accounts,
+
+Regarding INV-00463, our site team count shows fewre man-hours than you billed for May. Let us discuss.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0133,2025-06-30,CL-051,INV-00434,Remittance advice,"Hi,
+
+Please update the invoice address to our new office, no other change.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0134,2025-07-03,CL-007,INV-00446,RE: INV-00446,"Dear team,
+
+Regarding INV-00446, the hours on your invoice do not match our attendance records for May. Kindly clarify urgently.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0135,2025-07-11,CL-009,INV-00503,Dispute - June invoice,"Hi,
+
+Regarding inv 503, original invoice with stamped timesheet not received at our office. Also, there is no valid PO for this period, invoice cannot be processed. Please revise and resend.
+
+-- Sent from my phone",DOCS_MISSING; LPO_ISSUE,1
+EM-0136,2025-07-15,CL-016,INV-00509,INV-00509 rejected,"Hello Accounts,
+
+Regarding inv 509, the purhcase order balance is exhausted, procurement needs to issue a new one first. Please revise and resend.
+
+Thanks,
+Procurement",LPO_ISSUE,1
+EM-0137,2025-07-19,CL-043,INV-00535,INV-00535 rejected,"Dear Sir/Madam,
+
+Regarding INV-00535, timesheet attached with the invoice is different from what our FM supervisor signed. Also, please remove the overtime line, it was not pre approved as per contract. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0138,2025-07-19,CL-055,INV-00545,Invoice query,"Good morning,
+
+Regarding INV-00545, the replacement staff were not provided yet invoice shows full deployment. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",HC_DISCREPANCY,1
+EM-0139,2025-07-20,CL-024,INV-00517,FW: monthly manpower invoice,"Dear team,
+
+Regarding INV-00517, our site team count shows fewer man-hours than you billed for June. Let us discuss.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0140,2025-07-20,CL-008,INV-00502,Dispute - June invoice,"Hi Ahmed,
+
+Regarding invoice no. 00502, LPO renewal is pending with procurement so finance cannot release payment. This is not the first time this has happened. Please issue a credit note.
+
+-- Sent from my phone",LPO_ISSUE,1
+EM-0141,2025-07-22,CL-037,INV-00529,INV-00529 rejected,"Dear Sir/Madam,
+
+Regarding INV-00529, there is no valdi PO for this period, invoice cannot be processed. This is not the first time this has happened. Please issue a credit note.
+
+Regards,
+FM Department",LPO_ISSUE,1
+EM-0142,2025-07-22,CL-004,INV-00498,RE: INV-00498,"Dear team,
+
+Regarding inv 498, there is no valid PO for this period, invoice cannot be processed. Let us discuss.
+
+Thanks,
+Procurement",LPO_ISSUE,1
+EM-0143,2025-07-23,CL-038,INV-00530,Payment hold,"Regarding your latest invoice, kindly issue a credit note for the SLA deductions. Please issue a credit note.
+
+Kind regards,
+Finance",SLA_PENALTY,1
+EM-0144,2025-07-24,CL-056,INV-00546,FW: monthly manpower invoice,"Dear Collections team,
+
+Regarding inv 546, unit price on the invoice does not match the rat ecard in the agreement. Also, timesheet attached with the invoice is different from what our FM supervisor signed. This is not the first time this has happened. Let us discuss.
+
+Regards,
+FM Department",RATE_DISPUTE; TS_MISMATCH,1
+EM-0145,2025-07-24,CL-003,INV-00497,Invoice query,"Dear team,
+
+Regarding INV-00497, the OT hours look excessive and there is no approval email. Kindly clarify urgently.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0146,2025-07-26,CL-045,INV-00537,Invoice on hold,"Dear team,
+
+Regarding INV-00537, several positions were vacant in June but are charged in full. 
+
+Thank you",HC_DISCREPANCY,1
+EM-0147,2025-07-27,CL-042,INV-00479,Remittance advice,"Could you please confir mthe outstanding balance on our account.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0148,2025-07-27,CL-040,INV-00532,Dispute - June invoice,"Good morning,
+
+Regarding invoice no. 00532, headcount on the invoice is higher than the deployed manpower. Also, who approved the extra hours? we did not request overtime in June. Please issue a credit note.
+
+Thanks,
+Procurement",HC_DISCREPANCY; OT_UNAPPROVED,1
+EM-0149,2025-07-27,CL-049,INV-00540,Clarification required,"Good morning,
+
+Regarding invoice no. 00540, the purchase order balance is exhausted, procuerment needs to issue a new one first. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",LPO_ISSUE,1
+EM-0150,2025-07-27,CL-021,INV-00514,FW: monthly manpower invoice,"Regarding INV-00514, the hours on your invoice do not match our attendance records for June. This is not the first time this has happened. 
+
+Thank you",TS_MISMATCH,1
+EM-0151,2025-07-29,CL-013,INV-00506,Dispute - June invoice,"Hi Ahmed,
+
+Regarding INV-00506, the hours on your invoice do not match our attendance records for June. 
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0152,2025-07-31,CL-059,INV-00549,Remittance advice,"Hi Ahmed,
+
+We will release payment next week after the CFO approval.
+
+Thank you",NOT_DISPUTE,0
+EM-0153,2025-07-31,CL-042,INV-00534,Payment hold,"Dear Collections team,
+
+Regarding INV-00534, please remove the overtime line, it was not pre approved as per contract. Kindly clarify urgently.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0154,2025-08-01,CL-019,INV-00512,INV-00512 rejected,"Dear Collections team,
+
+Regarding inv 512, the OT hours look excessive and there is no approval email. Also, you applied the escalation but we have not agreed to the revised rates. Let us discuss.
+
+Rgds
+Facility Manager",OT_UNAPPROVED; RATE_DISPUTE,1
+EM-0155,2025-08-01,CL-007,INV-00501,Invoice query,"Dear team,
+
+Regarding INV-00501, we have not signed the timesheet you used for this invoice. This is not the first time this has happened. Please revise and resend.
+
+Thank you",TS_MISMATCH,1
+EM-0156,2025-08-01,CL-045,INV-00482,Account statement,"Hello Accounts,
+
+Payment for inv 482 has been processed and should reflect in 3 working days.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0157,2025-08-02,CL-001,INV-00495,INV-00495 rejected,"Hello Accounts,
+
+Regarding INV-00495, the hours on your invoice do not match our attendance records for June. This is not the first time this has happened. Please issue a credit note.
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0158,2025-08-02,CL-017,INV-00510,Clarification required,"Dear team,
+
+Regarding inv 510, the hours on your invoice do not match our attendance records for June. Also, the OT hours look excessive and there is no approvla email. Please issue a credit note.
+
+Rgds
+Facility Manager",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0159,2025-08-02,CL-036,INV-00528,Invoice on hold,"Hi Ahmed,
+
+Regarding inv 528, the rate per head is higher than the contract rate. Please issue a credit note.
+
+Rgds
+Facility Manager",RATE_DISPUTE,1
+EM-0160,2025-08-04,CL-030,INV-00523,Invoice on hold,"Hi Ahmed,
+
+Regarding INV-00523, you billed 9 staff but only 8 were on site most days. Let us discuss.
+
+Thank you",HC_DISCREPANCY,1
+EM-0161,2025-08-04,CL-027,INV-00520,Account statement,"Hello Accounts,
+
+Could you please confirm the outstanding balance on our account.
+
+Thank you",NOT_DISPUTE,0
+EM-0162,2025-08-05,CL-017,INV-00566,Payment hold,"Good morning,
+
+Regarding inv 566, who approved the extra hours? we didn ot request overtime in July. Kindly clarify urgently.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0163,2025-08-05,CL-020,INV-00569,Dispute - July invoice,"Hello Accounts,
+
+Regarding INV-00569, you billed 78 staff but only 76 were on site most days. Let us discuss.
+
+Thanks,
+Procurement",HC_DISCREPANCY,1
+EM-0164,2025-08-05,CL-011,INV-00504,INV-00504 rejected,"Hi Ahmed,
+
+Regarding inv 504, the attendance sheet has corrections that we never agreed to. Also, the signde timesheet is not attached. This is not the first time this has happened. Kindly clarify urgently.
+
+Thanks,
+Procurement",TS_MISMATCH; DOCS_MISSING,1
+EM-0165,2025-08-12,CL-043,INV-00591,Invoice on hold,"Regarding INV-00591, the replacement staff were not provided yet invoice show sfull deployment. Let us discuss.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0166,2025-08-13,CL-006,INV-00555,FW: monthly manpower invoice,"Hi Ahmed,
+
+Regarding INV-00555, who approved the extra hours? we did not request overtime in July. Also, the attendance sheet has corrections that we never agered to. We are holding the payment until this is resolved.
+
+Rgds
+Facility Manager",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0167,2025-08-16,CL-055,INV-00601,INV-00601 rejected,"Good morning,
+
+Regarding your latest invoice, we were short of guards for many shifts, the invoice charges full strength. Also, PO number missing on the invoice, our system rejects it. 
+
+-- Sent from my phone",HC_DISCREPANCY; LPO_ISSUE,1
+EM-0168,2025-08-17,CL-027,INV-00576,Payment hold,"Dear team,
+
+Regarding your latest invoice, the purchase order balance is exhausted, procurement needs to issue a new one first. Also, pls check, tatendence for July is not matching our register. Please issue a credit note.
+
+-- Sent from my phone",LPO_ISSUE; TS_MISMATCH,1
+EM-0169,2025-08-18,CL-025,INV-00574,Account statement,"Good morning,
+
+Can you send a statement of accuont up to July.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0170,2025-08-21,CL-031,INV-00580,Invoice query,"Dear team,
+
+Regarding inv 580, timesheet attached with the invoice is different from what our FM supervisor signed. Also, several positions were vacant in July but are charged in full. Let us discuss.
+
+Rgds
+Facility Manager",TS_MISMATCH; HC_DISCREPANCY,1
+EM-0171,2025-08-22,CL-001,INV-00550,Payment hold,"Dear team,
+
+Regarding your latest invoice, original invoice with stamped timesheet not received at our office. Also, pls check, attendence forJ uly is not matching our register. Let us discuss.
+
+-- Sent from my phone",DOCS_MISSING; TS_MISMATCH,1
+EM-0172,2025-08-22,CL-032,INV-00581,Dispute - July invoice,"Hi Ahmed,
+
+Regarding INV-00581, the OT hours look excessive and there is no approval email. Also, original invoice with stamped timesheet not received at our office. Kindly clarify urgently.
+
+Thanks,
+Procurement",OT_UNAPPROVED; DOCS_MISSING,1
+EM-0173,2025-08-23,CL-037,INV-00585,Invoice on hold,"Regarding inv 585, our site team count shows fewer man-hours than you billed for July. This is not the first time this has happened. 
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0174,2025-08-25,CL-030,INV-00579,Invoice on hold,"Hello Accounts,
+
+Regarding inv 579, overtime of 113 hours was never approevd by us. We are holding the payment until this is resolved.
+
+Thank you",OT_UNAPPROVED,1
+EM-0175,2025-08-26,CL-016,INV-00565,Invoice on hold,"Dear Sir/Madam,
+
+Regarding inv 565, timesheet attached with the invoice is different from what our FM supervisor signed. Kindly clarify urgently.
+
+Thank you",TS_MISMATCH,1
+EM-0176,2025-08-27,CL-033,INV-00582,Invoice on hold,"Hi,
+
+Regarding INV-00582, supporting documents are missing, pleas eresend with attendance report. Let us discuss.
+
+Kind regards,
+Finance",DOCS_MISSING,1
+EM-0177,2025-08-30,CL-004,INV-00553,RE: INV-00553,"Dear team,
+
+Regarding inv 553, OT charges are not acceptable, no prior approval from facility manager. We are holding the payment until this is resolved.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0178,2025-09-01,CL-015,INV-00564,RE: INV-00564,"Dear team,
+
+Regarding INV-00564, the LPO quoted on the invoice has expired. This is not the first time this has happened. Please issue a credit note.
+
+Regards,
+FM Department",LPO_ISSUE,1
+EM-0179,2025-09-01,CL-041,INV-00589,Query,"Requesting a copy of your trade licence for our vendor registration renewal.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0180,2025-09-01,CL-036,INV-00584,Invoice query,"Good morning,
+
+Regarding inv 584, the purchase order balance is exhausted, procurement needs to issue a new one first. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",LPO_ISSUE,1
+EM-0181,2025-09-01,CL-059,INV-00605,Dispute - July invoice,"Dear Sir/Madam,
+
+Regarding INV-00605, we have not signed the timesheet youu sed for this invoice. Please revise and resend.
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0182,2025-09-02,CL-044,INV-00592,Vendor details,"Dear team,
+
+Requesting a copy of your trade licence for our vendor registration renewal.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0183,2025-09-03,CL-045,INV-00593,INV-00593 rejected,"Regarding INV-00593, please remove the overtime line, it was not pre approved as pe rcontract. Also, we have not signed the timesheet you used for this invoice. Kindly clarify urgently.
+
+Kind regards,
+Finance",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0184,2025-09-05,CL-003,INV-00552,Account statement,"Requesting a copy of your trade licence for our vendor registartion renewal.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0185,2025-09-05,CL-038,INV-00586,FW: monthly manpower invoice,"Hi Ahmed,
+
+Regarding inv 586, PO number missing on the invoice, our system rejects it. Please revise and resend.
+
+Regards,
+FM Department",LPO_ISSUE,1
+EM-0186,2025-09-06,CL-026,INV-00575,Payment hold,"Dear Sir/Madam,
+
+Regarding INV-00575, overtime of 412 hours was never approved by us. Please revise and resend.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0187,2025-09-06,CL-023,INV-00572,Remittance advice,"Hi Ahmed,
+
+Requesting a copy of your trade licence for our vendor registration renewal.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0188,2025-09-12,CL-021,INV-00570,Payment update,"Hi,
+
+Kindly shar eyour updated bank details letter on company letterhead.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0189,2025-09-16,CL-045,INV-00649,RE: INV-00649,"Hello Accounts,
+
+Regarding invoice no. 00649, pls check, attendence for August is not matching our register. Please issue a credit note.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0190,2025-09-16,CL-005,INV-00610,Invoice on hold,"Dear Collections team,
+
+Regarding invoice no. 00610, our site team count shows fewer man-hours than you billed for August. Also, please remove teh overtime line, it was not pre approved as per contract. Please revise and resend.
+
+Thank you",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0191,2025-09-17,CL-037,INV-00641,Clarification required,"Dear Sir/Madam,
+
+Regarding INV-00641, the monthly rate charged is wrong, please refer to clause on pricing. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",RATE_DISPUTE,1
+EM-0192,2025-09-17,CL-016,INV-00621,INV-00621 rejected,"Dear Collections team,
+
+Regarding invoice no. 00621, LPO renewal is pending with procurement so finance cannot release payment. Awaiting your corrected invoice.
+
+Regards,
+FM Department",LPO_ISSUE,1
+EM-0193,2025-09-18,CL-021,INV-00626,Dispute - August invoice,"Dear Collections team,
+
+Regarding INV-00626, we were short of guards for many shifts, the invoice charges full strength. Also, overtime of 141 hours was never approved by us. We are holding the payment until this is resolved.
+
+Best regards,
+Accounts Payable",HC_DISCREPANCY; OT_UNAPPROVED,1
+EM-0194,2025-09-18,CL-027,INV-00632,INV-00632 rejected,"Hi Ahmed,
+
+Regarding INV-00632, overtime of 71 hours was never approved by us. Also, the purchase order balance is exhausted, procurement needs to issue a new one first. Let us discuss.
+
+Rgds
+Facility Manager",OT_UNAPPROVED; LPO_ISSUE,1
+EM-0195,2025-09-21,CL-040,INV-00644,Dispute - August invoice,"Regarding invoice no. 00644, LPO renewal is pending with procurement so finance cannot release payment. Kindly clarify urgently.
+
+Rgds
+Facility Manager",LPO_ISSUE,1
+EM-0196,2025-09-23,CL-008,INV-00613,FW: monthly manpower invoice,"Hello Accounts,
+
+Regarding INV-00613, the signed timesheet is not attached. 
+
+Best regards,
+Accounts Payable",DOCS_MISSING,1
+EM-0197,2025-09-24,CL-026,INV-00631,RE: INV-00631,"Dear Sir/Madam,
+
+Regarding INV-00631, OT charges are not acceptable, no prior approval from facility manager. Kindly clarify urgently.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0198,2025-09-24,CL-036,INV-00640,FW: monthly manpower invoice,"Dear Collections team,
+
+Regarding INV-00640, LPO renewal is pending with procurement so finance cannot release payment. Also, the hours on your invoice do not match our attendance records for August. Please issue a credit note.
+
+-- Sent from my phone",LPO_ISSUE; TS_MISMATCH,1
+EM-0199,2025-09-25,CL-004,INV-00609,Payment hold,"Hi,
+
+Regarding inv 609, our site team count shows fewer man-hours than you billed for August. Also, several positions were vacant in August but are charged in full. Awaiting your corrected invoice.
+
+Thank you",TS_MISMATCH; HC_DISCREPANCY,1
+EM-0200,2025-09-25,CL-014,INV-00619,Account statement,"Hi,
+
+We will release paymen tnext week after the CFO approval.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0201,2025-09-27,CL-013,INV-00618,Invoice on hold,"Good morning,
+
+Regarding INV-00618, you billed 15 staff but only 13 were on site most days. Please issue a credit note.
+
+Best regards,
+Accounts Payable",HC_DISCREPANCY,1
+EM-0202,2025-09-27,CL-011,INV-00616,FW: monthly manpower invoice,"Good morning,
+
+Regarding INV-00616, timesheet attached with the invoice is different from what our FM supervisor signed. Please issue a credit note.
+
+Thank you",TS_MISMATCH,1
+EM-0203,2025-09-29,CL-009,INV-00558,Account statement,"Requesting a copy of your trade licence for our vendor registration renewal.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0204,2025-09-30,CL-032,INV-00637,Dispute - August invoice,"Good morning,
+
+Regarding INV-00637, the OT hours look excessive and there is no approval email. Also, we were shorto f guards for many shifts, the invoice charges full strength. Please issue a credit note.
+
+Thanks,
+Procurement",OT_UNAPPROVED; HC_DISCREPANCY,1
+EM-0205,2025-09-30,CL-025,INV-00630,Query,"Hello Accounts,
+
+Kindly share your updated bank details letter on copmany letterhead.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0206,2025-10-01,CL-059,INV-00661,RE: INV-00661,"Dear team,
+
+Regarding inv 661, we were short of guards for many shifts, the invoice charges full strength. Please revise and resend.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0207,2025-10-08,CL-007,INV-00556,Query,"Please find atatched remittance advice for the payment released today.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0208,2025-10-10,CL-052,INV-00711,Payment hold,"Good morning,
+
+Regarding INV-00711, the purchase order balance is exhausted, procurement needs to issue a new one first. Also, who approved the extra hours? we did not request overtime in September. This is not the first time this has happened. Kindly clarify urgently.
+
+Regards,
+FM Department",LPO_ISSUE; OT_UNAPPROVED,1
+EM-0209,2025-10-13,CL-029,INV-00690,Clarification required,"Good morning,
+
+Regarding INV-00690, our site team count shows fewer man-hours than you billed for September. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0210,2025-10-17,CL-023,INV-00684,Invoice on hold,"Hello Accounts,
+
+Regarding INV-00684, we were short of guards for many shifts, the invoice charges full strength. Let us discuss.
+
+Best regards,
+Accounts Payable",HC_DISCREPANCY,1
+EM-0211,2025-10-19,CL-032,INV-00693,INV-00693 rejected,"Dear Collections team,
+
+Regarding inv 693, please remove the overtime line, it was not pre approved as per contract. Please revise and resend.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0212,2025-10-19,CL-043,INV-00703,Dispute - September invoice,"Regarding inv 703, our site team count shows fewer man-hours than you billed for September. 
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0213,2025-10-21,CL-038,INV-00698,INV-00698 rejected,"Good morning,
+
+Regarding invoice no. 00698, who approved the extra hours? we did not request overtime in September. Kindly clarify urgently.
+
+Thank you",OT_UNAPPROVED,1
+EM-0214,2025-10-22,CL-017,INV-00678,Dispute - September invoice,"Dear team,
+
+Regarding INV-00678, overtime of 122 hours was never approved by us. Also, we were short of guards ofr many shifts, the invoice charges full strength. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",OT_UNAPPROVED; HC_DISCREPANCY,1
+EM-0215,2025-10-27,CL-011,INV-00672,FW: monthly manpower invoice,"Dear Sir/Madam,
+
+Regarding your latest invoice, timesheet attached with the invoice is differnet from what our FM supervisor signed. Please revise and resend.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0216,2025-10-28,CL-058,INV-00660,Query,"Hello Accounts,
+
+Payment for invoice no. 00660 has been processeda nd should reflect in 3 working days.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0217,2025-11-01,CL-001,INV-00662,Invoice on hold,"Dear Collections team,
+
+Regarding inv 662, overtime of 290 hours was never approved by us. Please revise and resend.
+
+Thank you",OT_UNAPPROVED,1
+EM-0218,2025-11-01,CL-008,INV-00669,FW: monthly manpower invoice,"Hello Accounts,
+
+Regarding INV-00669, overtime of 130 hours was never approved by us. Also, several positions were vacant in September but are charged in full. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",OT_UNAPPROVED; HC_DISCREPANCY,1
+EM-0219,2025-11-02,CL-016,INV-00677,Dispute - September invoice,"Good morning,
+
+Regarding inv 677, timesheet attached with the invoice is different from what our FM supervisor signed. This is not the first time this has happened. Please issue a credit note.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0220,2025-11-02,CL-059,INV-00717,INV-00717 rejected,"Hi,
+
+Regarding INV-00717, who approved the extra hours? we did not request overtime inS eptember. Please revise and resend.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0221,2025-11-03,CL-004,INV-00665,Dispute - September invoice,"Regarding inv 665, we were short of guards for many shifts, the invoice charges full strength. Please revise and resend.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0222,2025-11-04,CL-042,INV-00702,FW: monthly manpower invoice,"Regarding INV-00702, we have not signed the timesheet you used for this invoice. Kindly clarify urgently.
+
+Thank you",TS_MISMATCH,1
+EM-0223,2025-11-04,CL-014,INV-00675,Remittance advice,"Could you please confirm the outstanding balance on our account.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0224,2025-11-09,CL-009,INV-00670,Query,"Dear Collections team,
+
+Can you send a statement of account up to September.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0225,2025-11-10,CL-057,INV-00715,Query,"Dear team,
+
+Please update the invoice address to our new office, no other change.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0226,2025-11-10,CL-033,INV-00694,FW: monthly manpower invoice,"Good morning,
+
+Regarding INV-00694, there is no valid PO for this period, invoice cannot be processed. Also, we have not signed the timesheet you used for this invoice. This is not the first time this has happened. Let us discuss.
+
+Kind regards,
+Finance",LPO_ISSUE; TS_MISMATCH,1
+EM-0227,2025-11-13,CL-031,INV-00692,INV-00692 rejected,"Hi Ahmed,
+
+Regarding INV-00692, the attendance sheet has corrections that we never agreed to. 
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0228,2025-11-13,CL-052,INV-00768,RE: INV-00768,"Hi,
+
+Regarding INV-00768, PO number missing on the invoice, our system rejects it. Awaiting your corrected invoice.
+
+-- Sent from my phone",LPO_ISSUE,1
+EM-0229,2025-11-15,CL-046,INV-00762,RE: INV-00762,"Hi Ahmed,
+
+Regarding your latest invoice, we have not sigend the timesheet you used for this invoice. Awaiting your corrected invoice.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0230,2025-11-17,CL-005,INV-00666,Account statement,"Dear Sir/Madam,
+
+We will release payment next week after the CFO approval.
+
+Thank you",NOT_DISPUTE,0
+EM-0231,2025-11-17,CL-027,INV-00744,Invoice query,"Regarding INV-00744, we were short of guards for many shifts, the invoice charges full strength. Kindly clarify urgently.
+
+-- Sent from my phone",HC_DISCREPANCY,1
+EM-0232,2025-11-19,CL-057,INV-00772,Payment update,"Kindly share your updated bank details letter on company letterhead.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0233,2025-11-19,CL-016,INV-00733,INV-00733 rejected,"Regarding INV-00733, PO number missing on the invoic,e our system rejects it. We are holding the payment until this is resolved.
+
+Rgds
+Facility Manager",LPO_ISSUE,1
+EM-0234,2025-11-20,CL-030,INV-00747,Dispute - October invoice,"Good morning,
+
+Regarding INV-00747, as per SLA we are deducting penalty for uncovered shifts. 
+
+Thank you",SLA_PENALTY,1
+EM-0235,2025-11-23,CL-017,INV-00734,Invoice on hold,"Dear team,
+
+Regarding inv 734, who approved the extra hours? we did not request overtmie in October. Also, pls check, attendence for October is not matching our register. Please issue a credit note.
+
+Rgds
+Facility Manager",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0236,2025-11-24,CL-036,INV-00752,INV-00752 rejected,"Hi Ahmed,
+
+Regarding INV-00752, OT charegs are not acceptable, no prior approval from facility manager. Please revise and resend.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0237,2025-11-24,CL-011,INV-00728,INV-00728 rejected,"Dear Collections team,
+
+Regarding your latest invoice, the purchase order balance is exhausted, procurement needs to issue a new one first. Let us discuss.
+
+Thank you",LPO_ISSUE,1
+EM-0238,2025-11-25,CL-003,INV-00720,Invoice query,"Hello Accounts,
+
+Regarding INV-00720, we have not signed the itmesheet you used for this invoice. Awaiting your corrected invoice.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0239,2025-11-27,CL-006,INV-00723,FW: monthly manpower invoice,"Regarding your latest invoice, timesheet attached with the invoice is different from what our FM supervisor signed. Also, the rate per head is higher than the contract rate. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",TS_MISMATCH; RATE_DISPUTE,1
+EM-0240,2025-11-28,CL-001,INV-00718,Invoice on hold,"Dear Sir/Madam,
+
+Regarding invoice no. 00718, please remove the overtime line, it was not pre approved as pre contract. 
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0241,2025-11-28,CL-044,INV-00704,Vendor details,"Dear Collections team,
+
+Please update the invoice address to our new office, no otherc hange.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0242,2025-11-28,CL-045,INV-00761,Dispute - October invoice,"Dear Collections team,
+
+Regarding inv 761, timesheet attached with the invoice is different from what our FM supervisor signed. Please issue a credit note.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0243,2025-11-30,CL-008,INV-00725,INV-00725 rejected,"Dear team,
+
+Regarding INV-00725, we have not signed the timesheet you used ofr this invoice. Please revise and resend.
+
+Thank you",TS_MISMATCH,1
+EM-0244,2025-12-01,CL-004,INV-00721,Payment hold,"Good morning,
+
+Regarding inv 721, pls check, attendence for October is not matching our register. This is not the first time this has happened. 
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0245,2025-12-02,CL-019,INV-00736,INV-00736 rejected,"Dear team,
+
+Regarding inv 736, timesheet attached with the invoice is different from what our FM supervisor signed. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0246,2025-12-03,CL-031,INV-00748,Payment hold,"Dear Collections team,
+
+Regarding inv 748, the hours on your invoiec do not match our attendance records for October. Kindly clarify urgently.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0247,2025-12-04,CL-059,INV-00774,RE: INV-00774,"Dear Sir/Madam,
+
+Regarding INV-00774, the monthly rate charged is wrong, please refer to clause on pricing. This is not the first time this has happened. 
+
+Thank you",RATE_DISPUTE,1
+EM-0248,2025-12-05,CL-042,INV-00758,Clarification required,"Dear Sir/Madam,
+
+Regarding INV-00758, there is no valid PO for this period, invoice cannot be processed. Please issue a credit note.
+
+Thanks,
+Procurement",LPO_ISSUE,1
+EM-0249,2025-12-11,CL-027,INV-00801,FW: monthly manpower invoice,"Dear team,
+
+Regarding INV-00801, the LPO quoted on the invoice has xepired. Also, the signed timesheet is not attached. Kindly clarify urgently.
+
+Best regards,
+Accounts Payable",LPO_ISSUE; DOCS_MISSING,1
+EM-0250,2025-12-13,CL-050,INV-00766,Query,"Hi,
+
+We will release payment next week after the CFO approval.
+
+Thank you",NOT_DISPUTE,0
+EM-0251,2025-12-15,CL-020,INV-00794,FW: monthly manpower invoice,"Hi Ahmed,
+
+Regarding INV-00794, we only received the inovice copy, no backup documents. Please issue a credit note.
+
+Regards,
+FM Department",DOCS_MISSING,1
+EM-0252,2025-12-17,CL-059,INV-00831,RE: INV-00831,"Regarding inv 831, we have not signed the timesheet you used for this invoice. 
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0253,2025-12-21,CL-051,INV-00824,FW: monthly manpower invoice,"Dear Sir/Madam,
+
+Regarding INV-00824, we haven ot signed the timesheet you used for this invoice. Awaiting your corrected invoice.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0254,2025-12-21,CL-036,INV-00809,Invoice on hold,"Regarding INV-00809, timesheet attached with the invoice is different from what our FM supervisor signed. Also, the OT hours look excessive and there is no approval email. Awaiting your corrected invoice.
+
+Best regards,
+Accounts Payable",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0255,2025-12-26,CL-007,INV-00781,RE: INV-00781,"Good morning,
+
+Regarding INV-00781, penalty will be applied for the shortfall in November as per contract. This is not the first time this has happened. Awaiting your corrected invoice.
+
+-- Sent from my phone",SLA_PENALTY,1
+EM-0256,2025-12-26,CL-016,INV-00790,Invoice on hold,"Hello Accounts,
+
+Regarding inv 790, several psoitions were vacant in November but are charged in full. Also, PO number missing on the invoice, our system rejects it. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",HC_DISCREPANCY; LPO_ISSUE,1
+EM-0257,2025-12-26,CL-048,INV-00821,Vendor details,"We will release payment next week after the CFO approval.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0258,2025-12-27,CL-042,INV-00815,Invoice query,"Hello Accounts,
+
+Regarding INV-00815, timesheet attached with the invoice is different from what our FM supervisor signed. Also, penalty will be applied for the shortfall in oNvember as per contract. This is not the first time this has happened. Awaiting your corrected invoice.
+
+-- Sent from my phone",TS_MISMATCH; SLA_PENALTY,1
+EM-0259,2025-12-28,CL-031,INV-00805,Clarification required,"Hello Accounts,
+
+Regarding inv 805, several positions were vacant in November but are charged in full. This is not the first time this has happened. Please revise and resend.
+
+-- Sent from my phone",HC_DISCREPANCY,1
+EM-0260,2026-01-01,CL-008,INV-00782,Invoice on hold,"Dear Sir/Madam,
+
+Regarding INV-00782, the OT hours look excessive and there is no approval email. Also, the attendance sheet has corrections that we never agreed to. Please revise and resend.
+
+-- Sent from my phone",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0261,2026-01-02,CL-033,INV-00807,Account statement,"Hi Ahmed,
+
+Please update the invoice address to our new office, no other change.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0262,2026-01-02,CL-011,INV-00785,RE: INV-00785,"Hi,
+
+Regarding INV-00785, the sgined timesheet is not attached. Please revise and resend.
+
+-- Sent from my phone",DOCS_MISSING,1
+EM-0263,2026-01-03,CL-022,INV-00739,Remittance advice,"Requesting a copy of your trade licence for our vendor registration renewal.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0264,2026-01-04,CL-052,INV-00825,Invoice query,"Dear Sir/Madam,
+
+Regarding INV-00825, who approved the extra hours? we did not request overtime in November. Awaiting your corrected invoice.
+
+Thank you",OT_UNAPPROVED,1
+EM-0265,2026-01-13,CL-004,INV-00835,RE: INV-00835,"Good morning,
+
+Regarding INV-00835, pls check, attendence for December is not matching our register. Also, who approved the extra hours? we did not request overtime in December. Awaiting your corrected invoice.
+
+Regards,
+FM Department",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0266,2026-01-15,CL-045,INV-00876,Invoice on hold,"Good morning,
+
+Regarding INV-00876, we have not signed the timesheet you used for this invoice. Please issue a credit note.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0267,2026-01-16,CL-020,INV-00851,Account statement,"Please find attached remittance advice for the payment released today.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0268,2026-01-17,CL-035,INV-00808,Account statement,"Dear Collections team,
+
+We will release payment next week after the CFO approval.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0269,2026-01-18,CL-030,INV-00861,Invoice on hold,"Dear Sir/Madam,
+
+Regarding INV-00861, several positions were vacant in December but are chraged in full. Kindly clarify urgently.
+
+Thanks,
+Procurement",HC_DISCREPANCY,1
+EM-0270,2026-01-19,CL-038,INV-00869,Invoice query,"Good morning,
+
+Regarding INV-00869, timesheet attached with the invoice is different from what our FM supervisor signed. Also, overtime of 214 hours was never approved by us. This is not the first time this has happened. Please revise and resend.
+
+Thanks,
+Procurement",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0271,2026-01-19,CL-021,INV-00852,Invoice query,"Dear Collections team,
+
+Regarding INV-00852, the signed timesheet is not attached. Please revise and resend.
+
+Regards,
+FM Department",DOCS_MISSING,1
+EM-0272,2026-01-20,CL-003,INV-00834,Dispute - December invoice,"Dear team,
+
+Regarding INV-00834, you billed 28 staff but only 26 were on site most days. Also, as per SLA we are deducting penalty for uncovered shifts. 
+
+Thank you",HC_DISCREPANCY; SLA_PENALTY,1
+EM-0273,2026-01-22,CL-057,INV-00887,Invoice query,"Hi Ahmed,
+
+Regarding inv 887, headcount on the invoice is higher than the deplyoed manpower. Please issue a credit note.
+
+-- Sent from my phone",HC_DISCREPANCY,1
+EM-0274,2026-01-22,CL-031,INV-00862,Dispute - December invoice,"Regarding inv 862, our site team count shows fewer man-hours than you billed for December. Also, OT charges are not acceptable, no prior approval from facility manager. Let us discuss.
+
+Kind regards,
+Finance",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0275,2026-01-24,CL-002,INV-00833,INV-00833 rejected,"Hi,
+
+Regarding INV-00833, please reomve the overtime line, it was not pre approved as per contract. This is not the first time this has happened. Kindly clarify urgently.
+
+Thank you",OT_UNAPPROVED,1
+EM-0276,2026-01-25,CL-019,INV-00850,Invoice query,"Dear Collections team,
+
+Regarding INV-00850, overtime of 274 hours was never approved by us. Also, you applied the escalation but we have not agreed to the revised rates. We are holding the payment until this is resolved.
+
+Thank you",OT_UNAPPROVED; RATE_DISPUTE,1
+EM-0277,2026-01-28,CL-017,INV-00848,Payment hold,"Dear Collections team,
+
+Regarding INV-00848, the OT hours look excessive and there is no approval email. Please revise and resend.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0278,2026-02-04,CL-011,INV-00842,Invoice on hold,"Good morning,
+
+Regarding INV-00842, the purchase order balance is exhausted, procurement needs to issue a new one first. Kindly clarify urgently.
+
+Thank you",LPO_ISSUE,1
+EM-0279,2026-02-05,CL-021,INV-00795,Remittance advice,"Hello Accounts,
+
+Can you send a statement of account up to November.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0280,2026-02-13,CL-023,INV-00854,Account statement,"Dear team,
+
+Requetsing a copy of your trade licence for our vendor registration renewal.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0281,2026-02-18,CL-010,INV-00899,Payment hold,"Dear Sir/Madam,
+
+Regarding invoice no. 00899, you aplpied the escalation but we have not agreed to the revised rates. Also, the purchase order balance is exhausted, procuremetn needs to issue a new one first. Please issue a credit note.
+
+Thank you",RATE_DISPUTE; LPO_ISSUE,1
+EM-0282,2026-02-19,CL-040,INV-00929,Vendor details,"Dear team,
+
+Kindly share your updated bank details letter on company letterhead.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0283,2026-02-22,CL-031,INV-00920,FW: monthly manpower invoice,"Hi Ahmed,
+
+Regarding inv 920, the attendance sheet has corrections that we never agreed to. Also, please remove the overtime line, it was not pre approved as per contract. This is not the first time this has happened. Please revise and resend.
+
+Rgds
+Facility Manager",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0284,2026-02-22,CL-039,INV-00928,Clarification required,"Hi,
+
+Regarding your latest invoice, overtime of 462 hours was never approved by us. Also, timesheet attached with the invoice is different from what our FM supervisor signed. 
+
+Kind regards,
+Finance",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0285,2026-02-24,CL-045,INV-00934,Invoice query,"Good morning,
+
+Regarding inv 934, please remove the overtime line, it was not pre approved as per contract. Also, unit price on the invoice does not match the rate card in the agreement. Awaiting your corrected invoice.
+
+Thank you",OT_UNAPPROVED; RATE_DISPUTE,1
+EM-0286,2026-02-26,CL-052,INV-00941,Invoice on hold,"Hello Accounts,
+
+Regarding inv 941, overtime of 1144 hours was never aprpoved by us. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0287,2026-02-27,CL-017,INV-00906,Clarification required,"Good morning,
+
+Regarding INV-00906, the OT hours look excessive and there is no approval email. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0288,2026-02-28,CL-011,INV-00900,INV-00900 rejected,"Hi Ahmed,
+
+Regarding INV-00900, the hours on your invoice do not match our attendance records for January. We are holding the payment until this is resolved.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0289,2026-03-01,CL-057,INV-00946,Dispute - January invoice,"Good morning,
+
+Regarding INV-00946, supporting documents are missing, please resend with attendance report. Also, the OT hours look excessive and there is no approval email. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",DOCS_MISSING; OT_UNAPPROVED,1
+EM-0290,2026-03-01,CL-013,INV-00902,FW: monthly manpower invoice,"Dear Sir/Madam,
+
+Regarding your latest invoice, the OT hours look excessive and there is no approval email. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0291,2026-03-02,CL-008,INV-00897,RE: INV-00897,"Hi,
+
+Regarding INV-00897, the attendance sheet has corrections that we never agreed to. Please revise and resend.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0292,2026-03-07,CL-033,INV-00922,Payment hold,"Dear Sir/Madam,
+
+Regarding inv 922, timesheet attached with the invoiec is different from what our FM supervisor signed. Please revise and resend.
+
+Thank you",TS_MISMATCH,1
+EM-0293,2026-03-08,CL-052,INV-00883,Query,"Hi Ahmed,
+
+Kindly share your updated bank details letter on company letterhead.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0294,2026-03-10,CL-038,INV-00927,INV-00927 rejected,"Hi Ahmed,
+
+Regarding invoice no. 00927, we only received the invoice copy, no backup documents. Also, the OT hours look excessive and there is no approval email. Kindly clarify urgently.
+
+Kind regards,
+Finance",DOCS_MISSING; OT_UNAPPROVED,1
+EM-0295,2026-03-12,CL-043,INV-00991,Invoice query,"Hi,
+
+Regarding INV-00991, pls check, attendence for February is not matching our register. Please issue a credit note.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0296,2026-03-14,CL-053,INV-01001,Invoice on hold,"Hi Ahmed,
+
+Regarding your latest invoice, the OT hours look excessive and there is no approval email. Also, unit price on the invoice does not match the rate card in the agreement. Let us discuss.
+
+Rgds
+Facility Manager",OT_UNAPPROVED; RATE_DISPUTE,1
+EM-0297,2026-03-16,CL-028,INV-00976,Clarification required,"Regarding INV-00976, the hours on your invoice do not match our attendance records for February. Let us discuss.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0298,2026-03-17,CL-059,INV-01007,FW: monthly manpower invoice,"Hi,
+
+Regarding invoice no. 01007, please remove the overtime line, it was nto pre approved as per contract. 
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0299,2026-03-19,CL-055,INV-00944,Remittance advice,"Good morning,
+
+Kindly share your updated bank details letter on company letterhead.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0300,2026-03-19,CL-050,INV-00998,Payment update,"Hi,
+
+Could you please confirm the outstanding balance on our account.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0301,2026-03-19,CL-030,INV-00978,Clarification required,"Dear Sir/Madam,
+
+Regarding inv 978, we have not signed the timesheet you used for this invoice. Kindly clarify urgently.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0302,2026-03-22,CL-015,INV-00904,Remittance advice,"Hi,
+
+We will release payment next week after the CFO approval.
+
+Thank you",NOT_DISPUTE,0
+EM-0303,2026-03-23,CL-047,INV-00995,Payment update,"Hello Accounts,
+
+Please update the invoice address to our new office, n oother change.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0304,2026-03-24,CL-004,INV-00952,RE: INV-00952,"Regarding INV-00952, please remove the overtime line, it was not pre approved as per contract. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0305,2026-03-24,CL-026,INV-00974,Dispute - February invoice,"Good morning,
+
+Regarding inv 974, headcount on the invoice is higher than the deployed manpower. Also, the hours on your invoice do not match our attendance records for February. Please issue a credit note.
+
+Kind regards,
+Finance",HC_DISCREPANCY; TS_MISMATCH,1
+EM-0306,2026-03-26,CL-052,INV-01000,Invoice query,"Dear Sir/Madam,
+
+Regarding INV-01000, please remove the overtime line ,it was not pre approved as per contract. Also, we only received the invoice copy, no backup documents. We are holding the payment until this is resolved.
+
+Rgds
+Facility Manager",OT_UNAPPROVED; DOCS_MISSING,1
+EM-0307,2026-03-26,CL-037,INV-00985,Invoice on hold,"Good morning,
+
+Regarding invoice no. 00985, PO number msising on the invoice, our system rejects it. Also, who approved the extra hours? we did not request overitme in February. 
+
+Rgds
+Facility Manager",LPO_ISSUE; OT_UNAPPROVED,1
+EM-0308,2026-03-26,CL-032,INV-00980,RE: INV-00980,"Dear Collections team,
+
+Regarding INV-00980, the hours on your invoice do not match our attendance records for February. 
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0309,2026-03-26,CL-024,INV-00913,Query,"Dear Collections team,
+
+Requestign a copy of your trade licence for our vendor registration renewal.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0310,2026-03-27,CL-045,INV-00993,Payment hold,"Dear team,
+
+Regarding your latest invoice, the hours on your invoice do not match our attendance records for February. Awaiting your corrected invoice.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0311,2026-03-28,CL-060,INV-01008,FW: monthly manpower invoice,"Dear team,
+
+Regarding your latest invoice, who approved the extra hours? we did not request overtime in February. Please issue a credit note.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0312,2026-03-28,CL-031,INV-00979,INV-00979 rejected,"Hi,
+
+Regarding inv 979, timesheet attached with the invoice is different from what our FM supervisor signed. 
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0313,2026-03-29,CL-058,INV-01006,Invoice on hold,"Dear Sir/Madam,
+
+Regarding inv 1006, the signed timesheet is not attached. Also, timesheet attached with the invoice is different from what our F Msupervisor signed. Please issue a credit note.
+
+Thanks,
+Procurement",DOCS_MISSING; TS_MISMATCH,1
+EM-0314,2026-03-30,CL-015,INV-00963,FW: monthly manpower invoice,"Dear Collections team,
+
+Regarding inv 963, headcount on the invoice is higher than the deployed manpower. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0315,2026-03-30,CL-019,INV-00967,Invoice query,"Dear Sir/Madam,
+
+Regarding INV-00967, LPO renewal is pending with procurement so finance canno trelease payment. Also, the attendance sheet has corrections that we never agreed to. We are holding the payment until this is resolved.
+
+Rgds
+Facility Manager",LPO_ISSUE; TS_MISMATCH,1
+EM-0316,2026-03-31,CL-049,INV-00997,Account statement,"Dear Sir/Madam,
+
+Requesting a copy of your trade licence for our vendor reigstration renewal.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0317,2026-04-02,CL-006,INV-00954,Dispute - February invoice,"Hello Accounts,
+
+Regarding INV-00954, please remove the overtime line, it was not pre approved as per contract. Let us discuss.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0318,2026-04-14,CL-010,INV-01018,FW: monthly manpower invoice,"Dear Sir/Madam,
+
+Regarding inv 1018, we were short of guards for many shifts, the invoice charges full strength. Please revise and resend.
+
+Best regards,
+Accounts Payable",HC_DISCREPANCY,1
+EM-0319,2026-04-16,CL-044,INV-01052,Invoice on hold,"Dear team,
+
+Regarding INV-01052, headcount on the invoice is higher than the deployed manpower. We are holding the payment until this is resolved.
+
+Thanks,
+Procurement",HC_DISCREPANCY,1
+EM-0320,2026-04-17,CL-021,INV-01029,Invoice query,"Dear Collections team,
+
+Regarding your latest invoice, we have not signed the timesheet you used for this invoice. Please revise and resend.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0321,2026-04-18,CL-037,INV-01045,FW: monthly manpower invoice,"Dear Collections team,
+
+Regarding your latest invoice, pls check, attendence for March isn ot matching our register. Kindly clarify urgently.
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0322,2026-04-18,CL-013,INV-01021,Invoice query,"Good morning,
+
+Regarding INV-01021, you billed 14 staff but only 12 were ons ite most days. This is not the first time this has happened. 
+
+Kind regards,
+Finance",HC_DISCREPANCY,1
+EM-0323,2026-04-19,CL-003,INV-01011,Dispute - March invoice,"Hi,
+
+Regarding invoice no. 01011, unit price on the invoice does not match the rate card in the agreement. Please revise and resend.
+
+Regards,
+FM Department",RATE_DISPUTE,1
+EM-0324,2026-04-20,CL-038,INV-01046,Dispute - March invoice,"Dear Sir/Madam,
+
+Regarding INV-01046, our site team count shows fewer man-hours than you billed for March. Kindly clarify urgently.
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0325,2026-04-21,CL-055,INV-01063,Dispute - March invoice,"Dear Collections team,
+
+Regarding INV-01063, the hours on your invoice do not match our attendance records for March. 
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0326,2026-04-21,CL-041,INV-01049,Clarification required,"Hi,
+
+Regarding inv 1049, the attendance sheet has corrections that we never agreed to. Kindly clarify urgently.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0327,2026-04-22,CL-048,INV-01056,Clarification required,"Hi Ahmed,
+
+Regarding INV-01056, the LPO quoted on the invoice has expired. We are holding the payment until this is resolved.
+
+Best regards,
+Accounts Payable",LPO_ISSUE,1
+EM-0328,2026-04-23,CL-016,INV-01024,FW: monthly manpower invoice,"Regarding your latest invoice, the OT hours look excessive and there is no approval email. Please revise and resend.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0329,2026-04-24,CL-026,INV-01034,INV-01034 rejected,"Hi Ahmed,
+
+Regarding your latest invoice, please remove the overtime line, it was not pre approved as per contract. Please issue a credit note.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0330,2026-04-26,CL-036,INV-01044,Invoice on hold,"Dear Collections team,
+
+Regarding your latest invoice, the cleaning and security standard dropped, we need to discuss before paying. We are holding the payment until this is resolved.
+
+Thank you",SERVICE_QUALITY,1
+EM-0331,2026-04-27,CL-017,INV-01025,Invoice query,"Dear team,
+
+Regarding invoice no. 01025, the replacement staff were not provided yet invoice shows full deployment. This is not the first time this has happened. Let us discuss.
+
+Thank you",HC_DISCREPANCY,1
+EM-0332,2026-04-30,CL-045,INV-01053,RE: INV-01053,"Hi,
+
+Regarding INV-01053, timesheet attached with the invoice is different from what our FM supervisor signed. Awaiting your corrected invoice.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0333,2026-04-30,CL-015,INV-01023,Invoice on hold,"Dear team,
+
+Regarding INV-01023, there were multiple complaints from tenants about your staff. Kindly clarify urgently.
+
+-- Sent from my phone",SERVICE_QUALITY,1
+EM-0334,2026-05-01,CL-019,INV-01027,RE: INV-01027,"Hi,
+
+Regarding INV-01027, our site team count shows fewer man-hours than you billed for March. 
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0335,2026-05-02,CL-023,INV-01031,Invoice query,"Dear Collections team,
+
+Regarding INV-01031, you billed 27 staff but only 24 were on site most days. Also, PO number missign on the invoice, our system rejects it. This is not the first time this has happened. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",HC_DISCREPANCY; LPO_ISSUE,1
+EM-0336,2026-05-03,CL-001,INV-01009,Payment hold,"Good morning,
+
+Regarding INV-01009, original invoice with stamped timesheet not received at our office. Please issue a credit note.
+
+-- Sent from my phone",DOCS_MISSING,1
+EM-0337,2026-05-03,CL-047,INV-01055,Invoice on hold,"Dear team,
+
+Regarding inv 1055, pls check, attendence for March is not matching our register. 
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0338,2026-05-04,CL-021,INV-00969,Payment update,"Hello Accounts,
+
+Please update the invoice address to our new office, no other change.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0339,2026-05-11,CL-039,INV-01107,Payment hold,"Dear Collections team,
+
+Regarding your latest invoice, the purchase order balance is exhausted, procurement needs to issue a new one first. Also, the hours on your invoice do not match our attendance records for April. This is not the first time this has happened. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",LPO_ISSUE; TS_MISMATCH,1
+EM-0340,2026-05-12,CL-034,INV-01102,Clarification required,"Dear Sir/Madam,
+
+Regarding INV-01102, the attendance sheet has corrections that we never agreed to. Also, who approved the extra hours? we did not request overtime in April. Please issue a credit note.
+
+Regards,
+FM Department",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0341,2026-05-14,CL-059,INV-01127,Invoice on hold,"Hi Ahmed,
+
+Regarding invoice no. 01127, pls check, attendence for April is not matching our register. Also, OT charges are not acceptable, no prior approval from facility manager. Please issue a credit note.
+
+Regards,
+FM Department",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0342,2026-05-14,CL-022,INV-01090,Clarification required,"Dear Sir/Madam,
+
+Regarding invoice no. 01090, who approved the extra hours? we did not request overtim ein April. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0343,2026-05-16,CL-032,INV-01100,Dispute - April invoice,"Hi Ahmed,
+
+Regarding inv 1100, PO number missing on the invoice, our system rejects it. Also, as per SLA we are deducting penalty for uncovered shifts. Awaiting your corrected invoice.
+
+Regards,
+FM Department",LPO_ISSUE; SLA_PENALTY,1
+EM-0344,2026-05-21,CL-036,INV-01104,FW: monthly manpower invoice,"Good morning,
+
+Regarding invoice no. 01104, we only received the invoice copy, no backup documents. Please issue a credit note.
+
+Thanks,
+Procurement",DOCS_MISSING,1
+EM-0345,2026-05-25,CL-055,INV-01123,Invoice on hold,"Dear Sir/Madam,
+
+Regarding INV-01123, timesheet attached with the invoice is different from what our FM supervisor signed. Also, OT charges are not acceptable, no prior approval from facility manager. Kindly clarify urgently.
+
+Rgds
+Facility Manager",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0346,2026-05-25,CL-012,INV-01020,Remittance advice,"Good morning,
+
+Kindly share your updated bank details eltter on company letterhead.
+
+-- Sent from my phone",NOT_DISPUTE,0
+EM-0347,2026-05-30,CL-004,INV-01072,Clarification required,"Dear Sir/Madam,
+
+Regarding invoice no. 01072, the attendance sheet has corrections that we never agreed to. Also, the rate per head is higher than the contract rate. Please revise and resend.
+
+-- Sent from my phone",TS_MISMATCH; RATE_DISPUTE,1
+EM-0348,2026-05-31,CL-038,INV-01106,RE: INV-01106,"Dear Sir/Madam,
+
+Regarding INV-01106, our site team count shows fewer man-hours than you billed for April. We are holding the payment until this is resolved.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0349,2026-06-05,CL-031,INV-01099,Invoice query,"Hi,
+
+Regarding invoice no. 01099, who approved the extra hours? we did not request overtime in April. Also, pls check, attendence for April is not matching our register. Please revise and resend.
+
+Thank you",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0350,2026-06-16,CL-059,INV-01187,FW: monthly manpower invoice,"Dear team,
+
+Regarding INV-01187, the purchase order balance is exhausted, procurement neesd to issue a new one first. Please issue a credit note.
+
+Best regards,
+Accounts Payable",LPO_ISSUE,1
+EM-0351,2026-06-16,CL-018,INV-01146,INV-01146 rejected,"Hi Ahmed,
+
+Regarding inv 1146, as per SLA we are deducting peanlty for uncovered shifts. Also, our site team count shows fewre man-hours than you billed for May. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",SLA_PENALTY; TS_MISMATCH,1
+EM-0352,2026-06-18,CL-016,INV-01144,Dispute - May invoice,"Dear Collections team,
+
+Regarding INV-01144, the attendance sheet has corrections that we never agreed to. Please issue a credit note.
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0353,2026-06-18,CL-060,INV-01188,Invoice query,"Dear Collections team,
+
+Regarding your latest invoice, the OT hours looke xcessive and there is no approval email. Please revise and resend.
+
+Thanks,
+Procurement",OT_UNAPPROVED,1
+EM-0354,2026-06-21,CL-005,INV-01073,Payment update,"Dear Sir/Madam,
+
+Can you send a statemen tof account up to April.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0355,2026-06-22,CL-048,INV-01176,Query,"Dear Collections team,
+
+We will release payment next week after the CFO approval.
+
+Kind regards,
+Finance",NOT_DISPUTE,0
+EM-0356,2026-06-24,CL-037,INV-01165,Invoice on hold,"Dear Collections team,
+
+Regarding INV-01165, we have not signed the timesheet you used for this invoice. 
+
+Thank you",TS_MISMATCH,1
+EM-0357,2026-06-25,CL-041,INV-01169,INV-01169 rejected,"Dear Collections team,
+
+Regarding inv 1169, who approved the extra hours? we did not request overtime in May. 
+
+Thank you",OT_UNAPPROVED,1
+EM-0358,2026-06-26,CL-030,INV-01098,Query,"Hi,
+
+We will release payment next week after the CFO approval.
+
+-- Sent from my phone",NOT_DISPUTE,0
+EM-0359,2026-06-28,CL-013,INV-01141,Invoice on hold,"Regarding INV-01141, we have ont signed the timesheet you used for this invoice. Also, who approved the extra hours? we did no trequest overtime in May. 
+
+Thanks,
+Procurement",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0360,2026-06-30,CL-004,INV-01132,Invoice on hold,"Hi,
+
+Regarding INV-01132, pls check, attendence for May is not matching our register. Also, OT charges are not acceptable,n o prior approval from facility manager. Awaiting your corrected invoice.
+
+Best regards,
+Accounts Payable",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0361,2026-07-17,CL-029,INV-01217,Account statement,"Good morning,
+
+Kindly share your updated bank details letter on company letterhead.
+
+Best regards,
+Accounts Payable",NOT_DISPUTE,0
+EM-0362,2026-07-19,CL-047,INV-01235,FW: monthly manpower invoice,"Hello Accounts,
+
+Regarding INV-01235, penalty will be applied for the shortfall in June as per contract. 
+
+Kind regards,
+Finance",SLA_PENALTY,1
+EM-0363,2026-07-22,CL-052,INV-01240,Account statement,"Dear team,
+
+Kindly share yoru updated bank details letter on company letterhead.
+
+Thank you",NOT_DISPUTE,0
+EM-0364,2026-07-23,CL-059,INV-01247,INV-01247 rejected,"Dear team,
+
+Regarding your latest invoice, please remove the overtime line, it was not pre approved as per contract. Awaiting your corrected invoice.
+
+Kind regards,
+Finance",OT_UNAPPROVED,1
+EM-0365,2026-07-25,CL-001,INV-01189,Invoice on hold,"Dear Sir/Madam,
+
+Regarding inv 1189, pls check, attendence for June is not matching our register. Also, we will short pay due to SLA non comlpiance. 
+
+Regards,
+FM Department",TS_MISMATCH; SLA_PENALTY,1
+EM-0366,2026-07-26,CL-037,INV-01225,RE: INV-01225,"Dear Sir/Madam,
+
+Regarding INV-01225, you billed 59 staff but only 58 were on site most days. Also, the attendance sheet has corrections that we never agreed to. Please revise and resend.
+
+Kind regards,
+Finance",HC_DISCREPANCY; TS_MISMATCH,1
+EM-0367,2026-07-26,CL-013,INV-01201,Invoice on hold,"Dear team,
+
+Regarding INV-01201, you billed 15 staff but only 13 were on site most days. Awaiting your corrected invoice.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0368,2026-07-27,CL-006,INV-01194,Dispute - June invoice,"Hi Ahmed,
+
+Regarding INV-01194, timesheet attached with the invoice is different from what our FM supervisor signed. Also, the LPO quoted on the invoice has expired. Let us discuss.
+
+Thank you",TS_MISMATCH; LPO_ISSUE,1
+EM-0369,2026-07-28,CL-049,INV-01177,Remittance advice,"Dear team,
+
+Please update the invoice address to our new office, no other change.
+
+-- Sent from my phone",NOT_DISPUTE,0
+EM-0370,2026-07-29,CL-004,INV-01192,INV-01192 rejected,"Good morning,
+
+Regarding INV-01192, the attendance sheet has corrections that we neevr agreed to. Kindly clarify urgently.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0371,2026-07-29,CL-017,INV-01205,Invoice on hold,"Hi Ahmed,
+
+Regarding your latest invoice, who aprpoved the extra hours? we did not request overtime in June. Also, as per SLA we are deducting penalty for uncovered shifts. Please issue a credit note.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED; SLA_PENALTY,1
+EM-0372,2026-07-30,CL-022,INV-01210,Invoice on hold,"Hi Ahmed,
+
+Regarding INV-01210, overtime of 1343 hours was never approved by us. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",OT_UNAPPROVED,1
+EM-0373,2026-07-30,CL-016,INV-01204,FW: monthly manpower invoice,"Hi,
+
+Regarding your latest invoice, headcount on the invoice is hgiher than the deployed manpower. Also, we have nto signed the timesheet you used for this invoice. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+Regards,
+FM Department",HC_DISCREPANCY; TS_MISMATCH,1
+EM-0374,2026-08-01,CL-043,INV-01231,INV-01231 rejected,"Hi,
+
+Regarding your latest invoice, unit price on the invoice does not match the rate card in the agreement. Also, you billed 20 staff but only 18 were on site msot days. Please revise and resend.
+
+Rgds
+Facility Manager",RATE_DISPUTE; HC_DISCREPANCY,1
+EM-0375,2026-08-01,CL-036,INV-01224,Vendor details,"Hi,
+
+We will release payment next week after the CFO approval.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0376,2026-08-02,CL-045,INV-01233,Payment hold,"Good morning,
+
+Regarding your latest invoice, the hours on your invoice do not match our attendance records for June. Please revise and resend.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0377,2026-08-03,CL-025,INV-01153,Query,"Dear Collections team,
+
+Kindly share your updated bank details letter on company letterhead.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0378,2026-08-07,CL-027,INV-01215,Vendor details,"Good morning,
+
+Could you please confirm the outstanding balance on our account.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0379,2026-08-10,CL-011,INV-01199,Clarification required,"Dear team,
+
+Regarding INV-01199, the attendance sheet has corrections that we never agreed to. 
+
+Thank you",TS_MISMATCH,1
+EM-0380,2026-08-10,CL-038,INV-01226,Invoice on hold,"Hi Ahmed,
+
+Regarding INV-01226, overtime of 676 hoursw as never approved by us. Also, our site team count shows fewer man-hours than you billed for June. 
+
+Thanks,
+Procurement",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0381,2026-08-14,CL-057,INV-01245,Query,"We will release payment next week after the CFO approval.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0382,2026-08-16,CL-017,INV-01265,INV-01265 rejected,"Hello Accounts,
+
+Regarding INV-01265, there is no valid PO for this period, invoice cannot be processed. Please revise and resend.
+
+Rgds
+Facility Manager",LPO_ISSUE,1
+EM-0383,2026-08-16,CL-040,INV-01288,Invoice query,"Hi Ahmed,
+
+Regarding INV-01288, we weres hort of guards for many shifts, the invoice charges full strength. Please issue a credit note.
+
+-- Sent from my phone",HC_DISCREPANCY,1
+EM-0384,2026-08-16,CL-047,INV-01295,Invoice on hold,"Good morning,
+
+Regarding inv 1295, PO number missing on the invoice, our system rejects it. We are holding the payment until this is resolved.
+
+Regards,
+FM Department",LPO_ISSUE,1
+EM-0385,2026-08-18,CL-015,INV-01263,Dispute - July invoice,"Hello Accounts,
+
+Regarding your latest invoice, as per SLA we are deducting penalty for uncovered shifts. Let us discuss.
+
+Thanks,
+Procurement",SLA_PENALTY,1
+EM-0386,2026-08-18,CL-023,INV-01271,Dispute - July invoice,"Dear team,
+
+Regarding inv 1271, as per SLA we are deducting penalty for uncovered shifts. Also, pls check, attendence for July is not matching oru register. Let us discuss.
+
+Rgds
+Facility Manager",SLA_PENALTY; TS_MISMATCH,1
+EM-0387,2026-08-19,CL-035,INV-01283,Clarification required,"Dear Sir/Madam,
+
+Regarding INV-01283, several positions were vacant in July but are charged in full. This is not the first time this has happened. Awaiting your corrected invoice.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0388,2026-08-20,CL-030,INV-01278,INV-01278 rejected,"Hi Ahmed,
+
+Regarding INV-01278, LPO renewal is pending with procuremen tso finance cannot release payment. Also, we were short of guards for many shifts, the invoice charges full strength. Please revise and resend.
+
+Regards,
+FM Department",LPO_ISSUE; HC_DISCREPANCY,1
+EM-0389,2026-08-20,CL-002,INV-01250,INV-01250 rejected,"Hello Accounts,
+
+Regarding your latest invoice, as per SLA we are deducting penalty for uncovered shifts. Please issue a credit note.
+
+Thank you",SLA_PENALTY,1
+EM-0390,2026-08-22,CL-012,INV-01260,INV-01260 rejected,"Good morning,
+
+Regarding INV-01260, our site team count shows fewer man-hours than yo ubilled for July. This is not the first time this has happened. We are holding the payment until this is resolved.
+
+Kind regards,
+Finance",TS_MISMATCH,1
+EM-0391,2026-08-23,CL-046,INV-01294,RE: INV-01294,"Hi Ahmed,
+
+Regarding invoice no. 01294, timesheet attached witht he invoice is different from what our FM supervisor signed. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0392,2026-08-23,CL-036,INV-01284,Invoice query,"Dear team,
+
+Regarding inv 1284, there is no valid PO for this period, invoice cannot be processed. This is not the first time this has happened. Kindly clarify urgently.
+
+Rgds
+Facility Manager",LPO_ISSUE,1
+EM-0393,2026-08-23,CL-034,INV-01282,Clarification required,"Regarding invoice no. 01282, the replacement staff were not provided yet invoice shows full deployment. This is not the first time this has happened. Please issue a credit note.
+
+Kind regards,
+Finance",HC_DISCREPANCY,1
+EM-0394,2026-08-24,CL-051,INV-01299,Dispute - July invoice,"Good morning,
+
+Regarding INV-01299, the purchase order balance is exhausted, procurement needs to issue a new one first. Kindly clarify urgently.
+
+Regards,
+FM Department",LPO_ISSUE,1
+EM-0395,2026-08-24,CL-031,INV-01279,RE: INV-01279,"Hi,
+
+Regarding inv 1279, you billed 53 staff but only 50 were on site most days. We are holding the payment until this is resolved.
+
+Thank you",HC_DISCREPANCY,1
+EM-0396,2026-08-25,CL-049,INV-01297,INV-01297 rejected,"Hi,
+
+Regarding invoice no. 01297, several positions were vacant inJ uly but are charged in full. Awaiting your corrected invoice.
+
+Regards,
+FM Department",HC_DISCREPANCY,1
+EM-0397,2026-08-26,CL-021,INV-01269,INV-01269 rejected,"Good morning,
+
+Regarding inv 1269, the attendance sheet has corrections that we never agreed to. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",TS_MISMATCH,1
+EM-0398,2026-08-29,CL-026,INV-01274,Clarification required,"Hi Ahmed,
+
+Regarding INV-01274, OT charges are not acceptable, no prior approval from faciilty manager. Please revise and resend.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0399,2026-08-30,CL-060,INV-01308,Invoice query,"Hi,
+
+Regarding INV-01308, the hours on your invoice do not match our attnedance records for July. We are holding the payment until this is resolved.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0400,2026-08-31,CL-005,INV-01253,RE: INV-01253,"Hi,
+
+Regarding INV-01253, unit price on the invoice does not match the rate card in the agreement. 
+
+Best regards,
+Accounts Payable",RATE_DISPUTE,1
+EM-0401,2026-09-01,CL-037,INV-01285,Invoice on hold,"Dear team,
+
+Regarding your latest invoice, please remove the overtime line, it was not pre approved as per contract. Awaiting your corrected invoice.
+
+Regards,
+FM Department",OT_UNAPPROVED,1
+EM-0402,2026-09-02,CL-059,INV-01307,Payment hold,"Regarding INV-01307, overtime of 565 hours was never approved by us. This is not the first time this has happened. 
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED,1
+EM-0403,2026-09-03,CL-038,INV-01286,FW: monthly manpower invoice,"Hi Ahmed,
+
+Regarding INV-01286, the attendance sheet has corretcions that we never agreed to. Also, you billed 25 staff but only 24 were on site most days. 
+
+Rgds
+Facility Manager",TS_MISMATCH; HC_DISCREPANCY,1
+EM-0404,2026-09-05,CL-014,INV-01262,Payment update,"Hi,
+
+Can you send a statement of account up to July.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0405,2026-09-05,CL-019,INV-01267,RE: INV-01267,"Good morning,
+
+Regarding INV-01267, please remove the overtime line, it was not pre approved as per contract. Also, our site team count shows fewer man-hours than you billed for July. Please revise and resend.
+
+Best regards,
+Accounts Payable",OT_UNAPPROVED; TS_MISMATCH,1
+EM-0406,2026-09-12,CL-023,INV-01331,RE: INV-01331,"Hi Ahmed,
+
+Regarding inv 1331, kindly issue a credit note for the SLA deductions. 
+
+Best regards,
+Accounts Payable",SLA_PENALTY,1
+EM-0407,2026-09-14,CL-027,INV-01335,Payment hold,"Hi Ahmed,
+
+Regarding your latest invoice, you billed 12 staff but only 11 were on site most days. Also, please remove the overtime line, it was not pre approved as per contract. Kindly clarify urgently.
+
+-- Sent from my phone",HC_DISCREPANCY; OT_UNAPPROVED,1
+EM-0408,2026-09-19,CL-017,INV-01325,Invoice on hold,"Hi Ahmed,
+
+Regarding your latest invoice, penalty will be applied for the shortfall in August as per contract. Kindly clarify urgently.
+
+-- Sent from my phone",SLA_PENALTY,1
+EM-0409,2026-09-19,CL-006,INV-01314,Invoice on hold,"Good morning,
+
+Regarding INV-01314, we were short of guards for many shifts, the invoice charges full strength. Please revise and resend.
+
+Thanks,
+Procurement",HC_DISCREPANCY,1
+EM-0410,2026-09-20,CL-013,INV-01321,RE: INV-01321,"Good morning,
+
+Regarding invoice no. 01321, our site team count shows fewer man-hours than you billed for August. Let us discuss.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0411,2026-09-21,CL-030,INV-01338,Invoice on hold,"Dear Sir/Madam,
+
+Regarding INV-01338, several positions were vacant in August but are charged in full. Let us discuss.
+
+Best regards,
+Accounts Payable",HC_DISCREPANCY,1
+EM-0412,2026-09-21,CL-015,INV-01323,Invoice query,"Dear team,
+
+Regarding invoice no. 01323, we only received the invoice copy, no backup documents. Awaiting your corrected invoice.
+
+Rgds
+Facility Manager",DOCS_MISSING,1
+EM-0413,2026-09-23,CL-038,INV-01346,RE: INV-01346,"Dear Sir/Madam,
+
+Regarding INV-01346, the LPO quoted on the invoice has expired. Please issue a credit note.
+
+Best regards,
+Accounts Payable",LPO_ISSUE,1
+EM-0414,2026-09-23,CL-052,INV-01360,Invoice on hold,"Regarding your latest invoice, please remove the overtime line, it was not pre approved as per contract. Awaiting your corrected invoice.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0415,2026-09-23,CL-019,INV-01327,Invoice query,"Hi Ahmed,
+
+Regarding INV-01327, our site team count shows fewer manh-ours than you billed for August. Also, the OT hours look excessive and there is no approval email. Let us discuss.
+
+Regards,
+FM Department",TS_MISMATCH; OT_UNAPPROVED,1
+EM-0416,2026-09-24,CL-036,INV-01344,INV-01344 rejected,"Dear team,
+
+Regarding INV-01344, overtime of 319 hours was never approved by us. We are holding the payment until this is resolved.
+
+Rgds
+Facility Manager",OT_UNAPPROVED,1
+EM-0417,2026-09-25,CL-021,INV-01329,Dispute - August invoice,"Dear Sir/Madam,
+
+Regarding inv 1329, the attendance sheet has corrections that we never agreed to. 
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0418,2026-09-27,CL-045,INV-01353,Clarification required,"Hi Ahmed,
+
+Regarding INV-01353, overtime of 209 hours was never approved by us. This is not the first time this has happened. Let us discuss.
+
+Thank you",OT_UNAPPROVED,1
+EM-0419,2026-09-27,CL-001,INV-01309,Dispute - August invoice,"Dear Sir/Madam,
+
+Regarding INV-01309, timesheet attached with the invoice is different from what our FM supervisor signed. Also, we were short of guards for many shifts, the invoice charges full strength. 
+
+-- Sent from my phone",TS_MISMATCH; HC_DISCREPANCY,1
+EM-0420,2026-09-28,CL-016,INV-01324,Dispute - August invoice,"Dear Collections team,
+
+Regarding INV-01324, the replacement staff were not provided yet invoice shows full deployment. 
+
+Thank you",HC_DISCREPANCY,1
+EM-0421,2026-09-28,CL-007,INV-01315,Invoice on hold,"Dear team,
+
+Regarding INV-01315, our sit eteam count shows fewer man-hours than you billed for August. 
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0422,2026-09-29,CL-003,INV-01311,RE: INV-01311,"Dear team,
+
+Regarding INV-01311, PO number missing on the invoice, our system rejects it. Also, the replacement staff were not provided yet invoice shows full deployment. Please issue a credit note.
+
+Thank you",LPO_ISSUE; HC_DISCREPANCY,1
+EM-0423,2026-10-01,CL-008,INV-01316,Invoice query,"Dear Collections team,
+
+Regarding INV-01316, our site team count shows fewer man-hours than yo ubilled for August. Please revise and resend.
+
+Best regards,
+Accounts Payable",TS_MISMATCH,1
+EM-0424,2026-10-04,CL-031,INV-01339,Payment hold,"Dear Sir/Madam,
+
+Regarding your latest invoice, our site team count shows fewer man-hours tha nyou billed for August. 
+
+-- Sent from my phone",TS_MISMATCH,1
+EM-0425,2026-10-04,CL-042,INV-01350,INV-01350 rejected,"Dear Sir/Madam,
+
+Regarding inv 1350, please remove teh overtime line, it was not pre approved as per contract. Also, the purchase order balance is exhausted, procurement needs to issue a new one first. 
+
+Thanks,
+Procurement",OT_UNAPPROVED; LPO_ISSUE,1
+EM-0426,2026-10-04,CL-011,INV-01259,Remittance advice,"Dear team,
+
+Can you send a statement of account up to July.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0427,2026-10-05,CL-024,INV-01332,Invoice query,"Good morning,
+
+Regarding INV-01332, the attendance sheet has corrections that we never agreed to. Also, PO number missing on the invoice, our system rejects it. Please issue a credit note.
+
+Thank you",TS_MISMATCH; LPO_ISSUE,1
+EM-0428,2026-10-07,CL-012,INV-01380,Payment hold,"Regarding INV-01380, the rate per head is higher than the contract rate. Kindly clarify urgently.
+
+Thank you",RATE_DISPUTE,1
+EM-0429,2026-10-09,CL-009,INV-01317,Remittance advice,"Dear Sir/Madam,
+
+Please update the invoice address to our new office, no other change.
+
+Rgds
+Facility Manager",NOT_DISPUTE,0
+EM-0430,2026-10-11,CL-021,INV-01389,Invoice query,"Hi Ahmed,
+
+Regarding invoice no. 01389, our site team count shows fewer man-hours than you billed for Spetember. Please revise and resend.
+
+Regards,
+FM Department",TS_MISMATCH,1
+EM-0431,2026-10-12,CL-029,INV-01337,Payment update,"Dear Collections team,
+
+Please update the invoice address to our new office, no other change.
+
+Regards,
+FM Department",NOT_DISPUTE,0
+EM-0432,2026-10-15,CL-011,INV-01319,Payment update,"Hello Accounts,
+
+Kindly share your updated bank details letter on company letterhead.
+
+-- Sent from my phone",NOT_DISPUTE,0
+EM-0433,2026-10-16,CL-013,INV-01381,Clarification required,"Hi,
+
+Regarding inv 1381, pls check, attendence for September is not matching our register. Please revise and resend.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0434,2026-10-16,CL-034,INV-01402,Payment hold,"Dear Sir/Madam,
+
+Regarding inv 1402, OT charges are not accpetable, no prior approval from facility manager. Please issue a credit note.
+
+Rgds
+Facility Manager",OT_UNAPPROVED,1
+EM-0435,2026-10-17,CL-027,INV-01395,RE: INV-01395,"Dear Sir/Madam,
+
+Regarding INV-01395, kindly issue a credit note for teh SLA deductions. Awaiting your corrected invoice.
+
+Thanks,
+Procurement",SLA_PENALTY,1
+EM-0436,2026-10-17,CL-017,INV-01385,Invoice query,"Hi,
+
+Regarding invoice no. 01385, the hours on your invoice do not match our attendance records ofr September. This is not the first time this has happened. Please issue a credit note.
+
+Rgds
+Facility Manager",TS_MISMATCH,1
+EM-0437,2026-10-17,CL-054,INV-01362,Account statement,"Hi Ahmed,
+
+Could you please confirm the outstanding balance on our account.
+
+Thank you",NOT_DISPUTE,0
+EM-0438,2026-10-18,CL-026,INV-01394,Dispute - September invoice,"Regarding inv 1394, overtime of 141 hours was never approved by us. This is not the first time this has happened. Kindly clarify urgently.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0439,2026-10-19,CL-019,INV-01387,INV-01387 rejected,"Hello Accounts,
+
+Regarding inv 1387, original invoice with stamped timesheet not received at our office. Also, who approved the extra hours? we did not request overtime in September. Please revise and resend.
+
+-- Sent from my phone",DOCS_MISSING; OT_UNAPPROVED,1
+EM-0440,2026-10-19,CL-037,INV-01405,Payment hold,"Hi Ahmed,
+
+Regarding inv 1405, overtime of 274 hours was never approved by us. Kindly clarify urgently.
+
+-- Sent from my phone",OT_UNAPPROVED,1
+EM-0441,2026-10-22,CL-054,INV-01422,Clarification required,"Hi Ahmed,
+
+Regarding inv 1422, original invoice with stamped timesheet not received at our office. 
+
+Thank you",DOCS_MISSING,1
+EM-0442,2026-10-25,CL-003,INV-01371,Clarification required,"Hi,
+
+Regarding INV-01371, we were short of guards for many shifts, the invoice charges full strength. Awaiting your corrected invoice.
+
+-- Sent from my phone",HC_DISCREPANCY,1
+EM-0443,2026-10-25,CL-052,INV-01420,Invoice query,"Dear Collections team,
+
+Regarding INV-01420, pls check, attendence for September is not matching our register. Also, the LPO quoted on the invoice has expired. This is not the first time this has happened. Kindly clarify urgently.
+
+Best regards,
+Accounts Payable",TS_MISMATCH; LPO_ISSUE,1
+EM-0444,2026-11-03,CL-042,INV-01410,FW: monthly manpower invoice,"Dear team,
+
+Regarding INV-01410, the OT hours look excessive and there is no approval email. 
+
+Thank you",OT_UNAPPROVED,1
+EM-0445,2026-11-07,CL-016,INV-01384,Payment update,"Hello Accounts,
+
+Payment for INV-01384 has been processed and should reflect in 3 working days.
+
+Thank you",NOT_DISPUTE,0
+EM-0446,2026-11-08,CL-032,INV-01400,Query,"Dear Sir/Madam,
+
+Please update the invoice address to our new office, no other change.
+
+Thank you",NOT_DISPUTE,0
+EM-0447,2026-11-14,CL-022,INV-01390,Remittance advice,"Dear Collections team,
+
+Can you send a statement of account up to September.
+
+Thanks,
+Procurement",NOT_DISPUTE,0
+EM-0448,2026-11-19,CL-011,INV-01379,Vendor details,"Please find attached remittance advice for the payment released today.
+
+Kind regards,
+Finance",NOT_DISPUTE,0

@@ -1,0 +1,47 @@
+snapshot_date: "2026-11-09"
+random_state: 42
+split:
+  train_end_month: "2025-09"     # train: service months up to and including this
+  test_start_month: "2025-10"
+  test_end_month: "2026-03"      # later months excluded from modelling: not enough time to settle (censoring)
+dso_window_days: 90
+classification:
+  models: [knn, decision_tree, random_forest, gradient_boosting]
+  threshold_metric: f2           # recall-weighted threshold chosen on the last 3 training months
+regression:
+  models: [linear, random_forest, gradient_boosting]
+clustering:
+  k_range: [2, 8]
+  n_init: 20
+association:
+  min_support: 0.03
+  min_confidence: 0.5
+  min_lift: 1.2
+invoice_qa:
+  ot_hours_per_head_warn: 6
+  headcount_gap_warn_pct: 5
+  timesheet_variance_warn_hours: 20
+lpo_guard:
+  low_balance_pct: 20
+  expiry_warn_months: 1
+wps:
+  ot_multiplier_min: 1.25
+  ot_hours_month_max: 60         # derived from the 2 hours/day cap; verify before real use
+  establishment_on_time_min: 0.85  # reported in secondary sources for Resolution 340/2026; verify
+triage:
+  min_label_examples: 10         # labels with fewer training examples go to a human
+  confidence_threshold: 0.5
+  test_share: 0.25
+  verdict:                       # cut-offs from the TRD 11.5 verdict table
+    ts_variance_ok_hours: 8      # signed and at most this variance supports us
+    ts_variance_bad_hours: 20    # unsigned or above this variance supports the client
+    hc_gap_ok_pct: 2
+    hc_gap_bad_pct: 5
+    sla_gap_pct: 8
+collections:
+  overdue_weight_days: 30
+prescriptive:
+  dispute_resolution_passthrough: 0.8
+ledger:
+  supplier_key: "demo-supplier-key"   # demo only
+  client_key: "demo-client-key"       # demo only
